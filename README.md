@@ -409,6 +409,128 @@ Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene
 
 <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
 
+El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
+
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="6">Competitive Analysis Landscape</td>
+            </tr>
+            <tr>
+                <td colspan="2">¿Por qué llevar a cabo este análisis? </td>
+                <td colspan="4">Es necesario llevar este análisis, porque de esta manera vamos a saber que aplicaciones compiten con la nuestra y así tomar decisiones para poder para que los usuarios seleccionen nuestra aplicación.</td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td>Saifu</td>
+                <td>Monefy</td>
+                <td>Spendee</td>
+                <td>Fintonic</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Perfil</td>
+                <td>Overview</td>
+                <td>Saifu es una aplicación que busca mejorar la educación financiera y fomentar el ahorro en los hogares peruanos.</td>
+                <td>Monefy es una aplicación que permite a los usuarios poder controlar sus gastos y sus ingresos.</td>
+                <td>Spendee permite a los clientes poder administrar correctamente sus gastos e ingresos, además de que posee una herramienta inteligente para que los clientes puedan ahorrar.</td>
+                <td>Fintonic es una aplicación que permite a los usuarios organizar sus recursos económicos de una manera óptima, también indica cuando sus gastos están siendo demasiado altos.</td>
+            </tr>
+            <tr>
+                <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+                <td>Saifu se distingue por su enfoque en la planificación financiera personalizada, con funcionalidades que incluyen la educación financiera, reportes económicos detallados y metas de ahorro.</td>
+                <td>Brinda a los usuarios la oportunidad de gestionar los gastos e ingresos y los clasifica.</td>
+                <td>Spendee le da a sus usuarios la oportunidad de usar un sistema que les ayuda a ahorrar de la mejor manera.</td>
+                <td>Le da a sus usuarios la oportunidad de organizar sus recursos y alertar cuando no se maneja una economía responsable.</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Perfil de Marketing</td>
+                <td>Mercado objetivo</td>
+                <td>Los jóvenes adultos independientes y hogares peruanos de niveles socioeconómicos bajos (A, B y C) que buscan mejorar su educación financiera y hábitos de ahorro.</td>
+                <td>Clientes que quieren gestionar sus gastos.</td>
+                <td>Personas que quieren controlar sus finanzas personales.</td>
+                <td>Personas que tienen problemas financieros y personas que están empezando a desarrollar una economía responsable.</td>
+            </tr>
+            <tr>
+                <td>Estrategias de marketing</td>
+                <td>Estrategias digitales centradas en campañas educativas, alianzas con instituciones financieras, y promoción en comunidades locales a través de talleres y eventos.</td>
+                <td>Tiene publicidad en las redes sociales.</td>
+                <td>Tiene campaña de publicidad en diversas redes sociales y diversos sitios prestigiosos de noticias escribieron de la aplicación.</td>
+                <td>Tiene publicidad en redes sociales y está autorizada por el Banco de España.</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Perfil de producto</td>
+                <td>Productos & Servicios</td>
+                <td>Saifu ofrece una plataforma web para el manejo de finanzas personales, reportes económicos, educación financiera y metas de ahorro.</td>
+                <td>Realizar un balance de los ingresos y egresos.</td>
+                <td>Sincronización de cuentas bancarias, alertas de pagos y sistema para organizar los pagos.</td>
+                <td>Tiene sincronización con otras cuentas bancarias, programa de ahorros y análisis de gastos e ingresos.</td>
+            </tr>
+            <tr>
+                <td>Precios & Costos</td>
+                <td>Modelo freemium con acceso gratuito a funciones básicas, y una suscripción premium para funciones avanzadas y soporte adicional.</td>
+                <td>Esta aplicación tiene dos versiones, una de pago y una gratis. La aplicación gratuita tiene funciones limitadas y la versión de paga tiene todas las funciones. Los costos de la aplicación son el mantenimiento de los servidores, mantenimiento de la aplicación y la publicidad en redes sociales.</td>
+                <td>La aplicación es gratuita pero sus funciones son un poco limitadas. La aplicación tiene una suscripción llamada spendee premium, el costo mensual es 3 dólares y anual por 23 dólares. Los costos son el mantenimiento de servidores, el pago con entidades bancarias, el mantenimiento de la aplicación y la publicidad en las diversas redes sociales.</td>
+                <td>La aplicación es completamente gratuita. Los costos de esta aplicación son el mantenimiento que tiene que realizar, el mantenimiento de los servidores y la publicidad.</td>
+            </tr>
+            <tr>
+                <td>Canales de distribución (Web y/o Móvil)</td>
+                <td>Será distribuido como sitio web</td>
+                <td>Solo está distribuida en móvil, disponible en app store y google play.</td>
+                <td>Solo está distribuida en móvil, disponible en app store y google play.</td>
+                <td>Está disponible como página web y como aplicación móvil en app store y google play.</td>
+            </tr>
+            <tr>
+                <td rowspan="4">Análisis SWOT</td>
+                <td>Fortalezas</td>
+                <td>Enfoque en la educación financiera y el ahorro, integración de datos económicos nacionales.</td>
+                <td>La aplicación es muy fácil de usar, además de que su interfaz es muy intuitiva. </td>
+                <td>Está respaldado por diversos canales informativos de prestigio como NBC News. Además, tiene alianzas con entidades financieras.</td>
+                <td>La aplicación tiene alianzas con diversas entidades financieras y tiene un sistema para ayudar a ahorrar a los usuarios.</td>
+            </tr>
+            <tr>
+                <td>Debilidades</td>
+                <td>Dependencia de la tecnología y la conectividad a internet, posible resistencia cultural al cambio en el manejo de finanzas personales.</td>
+                <td>La aplicación funciona solo para poder colocar los gastos e ingresos pero no te ayuda a ahorrar o administrar los recursos. Además, solo se puede usar en el móvil.</td>
+                <td>La aplicación funciona sólo en el móvil. Así mismo, alerta a los usuarios de sus gastos, pero no ayuda de manera directa a los clientes a administrar sus gastos.</td>
+                <td>La aplicación si tiene un sistema para ayudar a los usuarios a administrar a sus usuarios, pero no tan efectiva como nuestra aplicación Saifu. Además, no cuenta con información financiera óptima.</td>
+            </tr>
+            <tr>
+                <td>Oportunidades</td>
+                <td>Expansión a otros países de Latinoamérica, alianzas con instituciones financieras, creciente demanda por educación financiera.</td>
+                <td>Se puede incluir alertas al gastar demasiado en un mes, contener información financiera y se puede realizar una página web.</td>
+                <td>Se puede  realizar una página web. También, se puede realizar un análisis más exhaustivo.</td>
+                <td>El sistema que ayuda a administrar los recursos de los usuarios puede mejorarse. Además, pueden usar su respaldo del Banco de España para tener más alcance.</td>
+            </tr>
+            <tr>
+                <td>Amenazas</td>
+                <td>Competencia de otras aplicaciones de gestión financiera, cambios en las regulaciones financieras, fluctuaciones económicas que afecten la capacidad de ahorro de los usuarios.</td>
+                <td>Las aplicaciones con mayor ayuda de finanzas.</td>
+                <td>Que los clientes no estén dispuestos a pagar una suscripción. Así mismo, otras aplicaciones que tengan más funciones.</td>
+                <td>Que su sistema tenga fallos, la aparición de aplicaciones con un sistema más sofisticado.</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
