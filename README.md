@@ -1,10 +1,9 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src=https://github.com/user-attachments/assets/078951d9-392a-4547-964d-57af860be71a style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=50%"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC">
+</p>
 
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
@@ -33,9 +32,8 @@ width=50%"/>
 
 ## Registro de versiones del informe
 
-
-|Versión|Fecha|Autor|Descripción de modificación|
-|::|:-:|:-:|-|
+|Versión |Fecha|Autor|Descripción de modificación|
+|--------|-----|-----|---------------------------|
 |1.0|13/08/2023|Comettant, Reyes|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Reyes|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
@@ -50,7 +48,13 @@ width=50%"/>
 
 ## Project Report Collaboration Insights
 
-Enlace de la organización para el reporte del proyecto: 
+- Link del repositorio de la documentacion: [https://github.com/Upecinos-AI-AplicacionesWeb/Saifu-project-report](https://github.com/Upecinos-AI-AplicacionesWeb/Saifu-project-report)
+
+A lo largo del proyecto, el equipo ha estado comprometido en la creación del informe en diferentes fases. Las tareas principales que se han abarcado:
+
+- La realización de una investigación del negocio y la problemática a resolver, recopilando información relevante de fuentes confiables que nos permitieron comprender mejor el sector y las necesidades de los usuarios.
+- La redacción de los capítulos del informe, incluyendo la descripción de la startup, el perfil de la solución, los segmentos objetivo, los competidores, las entrevistas, el needfinding, la especificación de requerimientos y el diseño del producto.
+- La revisión y corrección de los capítulos del informe, asegurando la coherencia y calidad del contenido.
 
 **TB1**
 
@@ -231,11 +235,13 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 
 <div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-| Descripción del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |Perfil del integrante del equipo|
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :--------: |
-| Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo. |![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
-| Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.                                                  |![]*Inserte Imagen*
-| Mi nombre es **Sebastian Flores Manrique**. Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                                                                               |![]*Inserte Imagen*
+| Descripción del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                           Perfil del integrante del equipo                           |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------:|
+| Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo. | ![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1) |
+| Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.                                                  |                                 ![]*Inserte Imagen*                                  
+| Mi nombre es **Sebastian Flores Manrique**. Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                                                                               |    <img src="assets/members-profile/sebastian.jpeg" width="100%" alt="Sebastian">    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                           |                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |||
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
