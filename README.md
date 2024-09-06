@@ -610,29 +610,33 @@ La sección cubre el proceso de investigación de nuestros segmentos objetivo a 
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
 
-_Preguntas dirigidas a los Jefes de hogar de los sectores económicos D y E._
+_Preguntas dirigidas a los jefes de hogar de los sectores económicos D y E, y a estudiantes o personas naturales._
 ___
 - Preguntas principales:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. ¿Cuál es tu nivel de conocimiento en relación a la economía doméstica?
+
+  2. ¿Has enfrentado dificultades financieras en el pasado? ¿Podrías compartir alguna experiencia al respecto?
+  3. A medida que la cantidad de miembros en tu hogar creció, ¿qué cambios implementaste en tu enfoque financiero?
+  4. ¿Cómo controlas tus gastos en la actualidad?
    
 - Preguntas complementarias:
-  1. 
-  2. 
+  1. ¿Te sientes preparado para manejar imprevistos financieros que puedan surgir en cualquier momento?
+  2. ¿En qué momentos del mes o año consideras que tu presupuesto se vuelve más ajustado?
+  3. ¿Con qué frecuencia te has visto sorprendido por incrementos en los precios de productos?
 
 _Preguntas dirigidas a los jóvenes de 18 a 24 años en inicios de independencia_
 ___
 - Preguntas principales:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. ¿Cuál fue tu nivel de conocimiento sobre finanzas en el hogar al momento de comenzar tu independencia?
+  2. En tu primer mes de independencia, ¿cómo organizaste y distribuiste tu presupuesto?
+  3. Al dar inicio a tu vida independiente, ¿qué metas financieras te planteaste y cuál es tu plan para lograrlas?
+  4. ¿Has notado alguna diferencia en tus hábitos de gasto desde que te independizaste? ¿Qué factores crees que han contribuido a estos cambios?
    
 - Preguntas complementarias:
-  1. 
-  2. 
+  1. ¿Qué métodos emplean actualmente para monitorear y controlar tus gastos?
+  2. ¿Te sientes confiado en enfrentar situaciones financieras imprevistas que puedan surgir?
+  3. ¿En qué momentos del mes o del año notas que tu presupuesto se vuelve más ajustado?
+
 
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
 
@@ -679,11 +683,13 @@ ___
 
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
 
-* **(Nombre del user persona del primer segmento):**
+* **María Rodríguez (Jefe de Hogar del Sector Económico D o E):**
 
-<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E </td> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia</td> </tr> <tr> <td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> <td>Monitorear los procesos</td> <td>Always </td> <td>High</td> <td>Often</td> <td>Medium</td></tr> </table>
+<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E (María Rodríguez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <td>Registrar gastos diarios</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Planificar el presupuesto semanal/mensual</td> <td>Alta</td> <td>Mensual</td> </tr><td>Buscar ofertas y precios bajos</td> <td>Media</td> <td>Semanal</td> </tr> <td>Ahorrar para emergencias</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Controlar el gasto en servicios básicos</td> <td>Media</td> <td>Mensual</td></tr></table>
 
-**(ANALISIS DEL CUADRO)**
+* **Luis Gómez (Joven de 18 a 24 años en inicios de independencia):**
+
+<table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
     
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
