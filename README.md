@@ -221,9 +221,10 @@ La misión que tenemos como equipo al desarrollar Saifu es poder llegar a la may
 Como visión nos proyectamos a ver el resultado de la aplicación beneficiando el ahorro y premiando, indirectamente, la responsabilidad financiera; generando que familias que estén en la pobreza puedan salir de los problemas que les genere ese estado.
 
 ##### Logotipo de la Startup:
-(insertar imagen)
+![logotipo_startup 1](https://github.com/user-attachments/assets/9dda7e79-9b78-46ad-9569-f8c936f95b32)
+
 ##### Logotipo del servicio
-(insertar imagen)
+![logotipo_DPS 1](https://github.com/user-attachments/assets/ccdab840-29f7-4ee1-8d0b-98cd7f94938a)
 
 <div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
@@ -412,22 +413,6 @@ Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
 <html>
-<head>
-    <title>Tabla HTML</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            text-align: left;
-            padding: 10px 25px 8px 25px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
-</head>
 <body>
     <table>
         <tbody>
@@ -537,46 +522,86 @@ En base al análisis competitivo efectuado anticipadamente, se logró identifica
 
 **Afrontando las fortalezas de nuestros competidores:**
 
-**Comprendemos que nuestras fortalezas son:**
+**Comprendemos que las fortalezas de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
+-Integración bancaria avanzada (Fintonic, Spendee).
+-Herramientas inteligentes de ahorro (Spendee).
+-Alertas y recomendaciones personalizadas (Fintonic).
 **Estrategias**
 
+-Diferenciar nuestro producto mediante la simplicidad y la facilidad de uso, evitando la complejidad innecesaria.
+
+-Desarrollar una función de integración bancaria básica que se pueda expandir en el futuro.
 **Tácticas**
 
+-Ofrecer un tutorial interactivo al inicio que simplifique el uso de las funciones más avanzadas.
+
+-Lanzar versiones beta de la integración bancaria, recopilando feedback directo de los usuarios para mejorarla continuamente.
 
 **Afrontando las debilidades de nuestros competidores:**
 
-**Comprendemos que nuestras debilidades son:**
+**Comprendemos que la debilidades de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+Complejidad para usuarios que buscan simplicidad (Fintonic).
+Interfaz menos intuitiva para algunos usuarios (Spendee).
+Falta de funciones avanzadas en la versión básica (Monefy).
 
 **Estrategias**
 
+-Enfocarnos en una experiencia de usuario excepcionalmente simple e intuitiva.
+
+-Ofrecer una versión gratuita con suficientes funciones atractivas, pero con incentivos claros para suscribirse a una versión premium.
+
 **Tácticas**
+
+-Realizar pruebas de usabilidad con diferentes perfiles de usuarios para optimizar la interfaz.
+
+-Implementar un sistema de recompensas para los usuarios que refieran a nuevos clientes, motivándolos a optar por versiones premium.
 
 **Afrontando las oportunidades de nuestros competidores:**
 
-**Comprendemos que nuestras oportunidades son:**
+**Comprendemos que las oportunidades de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+-Expansión a nuevos mercados con alta demanda de gestión financiera personal.
+
+-Mejora continua de la integración bancaria y servicios financieros adicionales.
+
+-Crecimiento en la adopción de herramientas de ahorro.
 
 **Estrategias**
 
+-Identificar y penetrar nichos de mercado aún no explotados.
+
+-Explorar nuevas funcionalidades centradas en el ahorro automatizado y personalizado.
 
 **Tácticas**
+
+-Realiza estudios de mercado para identificar segmentos desatendidos, como jóvenes profesionales o personas mayores.
+
+-Desarrollar una función que sugiera acciones de ahorro automático basadas en los hábitos de gasto del usuario.
 
 **Afrontando las amenazas de nuestros competidores:**
 
 
-**Comprendemos que nuestras amenazas son:**
+**Comprendemos que las amenazas de nuestros competidores son:**
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+-Competencia creciente con productos similares en el mercado.
+
+-Cambios regulatorios en la banca digital que podrían afectar las integraciones bancarias.
+
+-Evolución tecnológica que podría cambiar rápidamente las expectativas de los usuarios.
 
 **Estrategias**
 
+-Innovar continuamente para mantenernos competitivos y adelantarnos a los cambios del mercado.
+
+-Establecer un equipo dedicado al cumplimiento normativo y adaptarse rápidamente a los cambios regulatorios.
+
 **Tácticas**
+
+-Fomentar una cultura de innovación interna, alentando la creación de nuevas características y mejoras.
+
+-Colaborar con expertos en regulación para asegurar el cumplimiento y la rápida adaptación a nuevas leyes.
 
 
 <div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
