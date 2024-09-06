@@ -20,12 +20,13 @@ width=50%"/>
 
 
 ## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Comettant Rubiños, Jessica Elizabeth|U20211C009|
-|Reyes Valenzuela, Renato German|U20221B471|
-|Quiroz Zambrano, Fabrizio Quiroz|U202213406|
-|Quiñones Tintaya, Johan Jorge|U202218183|
+|                Nombre                |   Código   |
+|:------------------------------------:|:----------:|
+| Comettant Rubiños, Jessica Elizabeth | U20211C009 |
+|   Reyes Valenzuela, Renato German    | U20221B471 |
+|   Quiroz Zambrano, Fabrizio Quiroz   | U202213406 |
+|    Quiñones Tintaya, Johan Jorge     | U202218183 |
+|  Flores Manrique, Sebastian Enrique  | U201611430 |
 
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
@@ -34,7 +35,7 @@ width=50%"/>
 
 
 |Versión|Fecha|Autor|Descripción de modificación|
-|:-:|:-:|:-:|-|
+|::|:-:|:-:|-|
 |1.0|13/08/2023|Comettant, Reyes|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Reyes|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
@@ -44,6 +45,8 @@ width=50%"/>
 |1.6|31/08/2023|Comettant, Reyes|Redacción de style guidelines e information architecture|
 |1.7|03/09/2023|Comettant,Reyes|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
 |1.8|03/09/2023|Comettant, Reyes|Registro de evidencias y entrega del TB1|
+|1.9|04/09/2023|Flores Manrique, Sebastian|Elaboración y redacción de los competidores, análisis, estrategias y tácticas|
+|1.9|05/09/2023|Flores Manrique, Sebastian|Elaboración y redacción de information architecture, organization systems y labeling systems|
 
 ## Project Report Collaboration Insights
 
@@ -53,13 +56,13 @@ Enlace de la organización para el reporte del proyecto:
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-|Integrante|Tareas Asignadas|
-|-|-|
-|Jessica Comettant|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog|
-|Renato Reyes|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
-|----|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
-|---|Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
-|---|Services & Applications implementation, Software Deployment Configuration, User Stories, Product Backlog.|
+| Integrante                 |Tareas Asignadas|
+|----------------------------|-|
+| Comettant Rubiños, Jessica |Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog|
+| Reyes Valenzuela, Renato   |Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
+| Quiroz Zambrano, Fabrizio  |Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+| Flores Manrique, Sebastian |Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
+| Quiñones Tintaya, Johan    |Services & Applications implementation, Software Deployment Configuration, User Stories, Product Backlog.|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -228,11 +231,11 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 
 <div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-|Descripción del integrante|Perfil del integrante del equipo|
-| :--------| :--------: |
-| Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
-| Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.|![]*Inserte Imagen*
-
+| Descripción del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |Perfil del integrante del equipo|
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :--------: |
+| Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo. |![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1)|
+| Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.                                                  |![]*Inserte Imagen*
+| Mi nombre es **Sebastian Flores Manrique**. Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                                                                               |![]*Inserte Imagen*
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
