@@ -523,88 +523,89 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
 
-**Afrontando las fortalezas de nuestros competidores:**
+**1. Afrontando las fortalezas de nuestros competidores:**
 
-**Comprendemos que las fortalezas de nuestros competidores son:**
+**Comprendemos que nuestras fortalezas son:**
 
--Integración bancaria avanzada (Fintonic, Spendee).
--Herramientas inteligentes de ahorro (Spendee).
--Alertas y recomendaciones personalizadas (Fintonic).
-**Estrategias**
+- Educación financiera personalizada.
+- Integración de datos económicos locales (Perú).
+- Reportes detallados y metas de ahorro adaptadas a los usuarios.
 
--Diferenciar nuestro producto mediante la simplicidad y la facilidad de uso, evitando la complejidad innecesaria.
-
--Desarrollar una función de integración bancaria básica que se pueda expandir en el futuro.
-**Tácticas**
-
--Ofrecer un tutorial interactivo al inicio que simplifique el uso de las funciones más avanzadas.
-
--Lanzar versiones beta de la integración bancaria, recopilando feedback directo de los usuarios para mejorarla continuamente.
-
-**Afrontando las debilidades de nuestros competidores:**
-
-**Comprendemos que la debilidades de nuestros competidores son:**
-
-Complejidad para usuarios que buscan simplicidad (Fintonic).
-Interfaz menos intuitiva para algunos usuarios (Spendee).
-Falta de funciones avanzadas en la versión básica (Monefy).
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
--Enfocarnos en una experiencia de usuario excepcionalmente simple e intuitiva.
-
--Ofrecer una versión gratuita con suficientes funciones atractivas, pero con incentivos claros para suscribirse a una versión premium.
+- Diferenciarnos en la educación financiera y en la personalización de los reportes financieros.
+- Enfocarnos en el mercado peruano, destacando el uso de datos económicos locales.
 
 **Tácticas**
 
--Realizar pruebas de usabilidad con diferentes perfiles de usuarios para optimizar la interfaz.
+- Desarrollar campañas publicitarias que muestren casos de éxito de usuarios mejorando su ahorro.
+- Implementar tutoriales interactivos dentro de la app para guiar a los usuarios en la planificación financiera.
+- Promover la app en comunidades locales, especialmente a través de talleres y eventos centrados en la educación financiera.
 
--Implementar un sistema de recompensas para los usuarios que refieran a nuevos clientes, motivándolos a optar por versiones premium.
 
-**Afrontando las oportunidades de nuestros competidores:**
 
-**Comprendemos que las oportunidades de nuestros competidores son:**
+**2. Afrontando las debilidades de nuestros competidores:**
 
--Expansión a nuevos mercados con alta demanda de gestión financiera personal.
+**Comprendemos que nuestras debilidades son:**
 
--Mejora continua de la integración bancaria y servicios financieros adicionales.
+- Dependencia de la tecnología y conectividad a internet.
+- Resistencia cultural al cambio en la gestión de finanzas personales.
 
--Crecimiento en la adopción de herramientas de ahorro.
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
--Identificar y penetrar nichos de mercado aún no explotados.
-
--Explorar nuevas funcionalidades centradas en el ahorro automatizado y personalizado.
+- Mejorar la usabilidad de la app con un enfoque simplificado y accesible.
+- Educar a los usuarios sobre la importancia de la planificación financiera a largo plazo.
 
 **Tácticas**
 
--Realiza estudios de mercado para identificar segmentos desatendidos, como jóvenes profesionales o personas mayores.
+- Optimizar la app para entornos con conectividad limitada, permitiendo el acceso offline a funciones clave.
+- Crear campañas educativas para sensibilizar a los usuarios sobre cómo el control financiero les ayudará a mejorar su calidad de vida.
+- Integrar notificaciones que resalten el progreso y beneficios que los usuarios experimentan con el uso continuo de Saifu.
 
--Desarrollar una función que sugiera acciones de ahorro automático basadas en los hábitos de gasto del usuario.
+**3. Afrontando las oportunidades de nuestros competidores:**
 
-**Afrontando las amenazas de nuestros competidores:**
+**Comprendemos que nuestras oportunidades son:**
 
+- Creciente demanda de educación financiera.
+- Posibilidad de alianzas con instituciones financieras locales.
 
-**Comprendemos que las amenazas de nuestros competidores son:**
-
--Competencia creciente con productos similares en el mercado.
-
--Cambios regulatorios en la banca digital que podrían afectar las integraciones bancarias.
-
--Evolución tecnológica que podría cambiar rápidamente las expectativas de los usuarios.
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
--Innovar continuamente para mantenernos competitivos y adelantarnos a los cambios del mercado.
-
--Establecer un equipo dedicado al cumplimiento normativo y adaptarse rápidamente a los cambios regulatorios.
+- Expandir nuestra oferta a nivel regional y aprovechar la creciente demanda por aplicaciones que fomenten la educación financiera.
+- Colaborar con instituciones financieras que busquen promover hábitos de ahorro.
 
 **Tácticas**
 
--Fomentar una cultura de innovación interna, alentando la creación de nuevas características y mejoras.
+- Establecer alianzas estratégicas con bancos, cooperativas y ONGs que promuevan la educación financiera y que puedan ayudar a patrocinar campañas educativas dentro de la app.
+- Ofrecer descuentos o promociones a través de estas alianzas para motivar a nuevos usuarios.
 
--Colaborar con expertos en regulación para asegurar el cumplimiento y la rápida adaptación a nuevas leyes.
+**4. Afrontando las amenazas de nuestros competidores:**
+
+
+**Comprendemos que nuestras amenazas son:**
+
+- Competencia de aplicaciones más consolidadas.
+- Cambios en las regulaciones financieras.
+- Fluctuaciones económicas que impactan la capacidad de ahorro de los usuarios.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+**Estrategias**
+
+- Continuar mejorando las funcionalidades de la app basadas en el feedback de los usuarios.
+- Mantenernos flexibles frente a posibles cambios en las regulaciones y la situación económica.
+
+**Tácticas**
+
+- Implementar un sistema de atención al cliente para recibir retroalimentación y ajustar el desarrollo de la app rápidamente.
+- Desarrollar un equipo interno o contratar consultores especializados para monitorear cambios en las regulaciones locales.
+- Proporcionar alternativas de ahorro que sean más resistentes a las fluctuaciones económicas, como la diversificación de objetivos de ahorro y sugerencias personalizadas para optimizar sus recursos.
 
 
 <div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
