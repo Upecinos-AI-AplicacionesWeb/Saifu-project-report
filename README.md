@@ -807,17 +807,22 @@ Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el 
 
 <div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
 
-Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
-Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
+En la sección de arquitectura de información podremos organizar el contenido de la landing page y aplicación web de Saifu. Se verán los tópicos de Organization Systems, Labeling Systems, SEOTags and Meta Tags, Searching Systems y Navigation Systems.
 
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
 
-La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los jefes de hogar y los jóvenes estudiantes. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul  que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
+* Organización Jerárquica (Visual Hierarchy):
+  La organización jerárquica se utilizará en las pantallas principales de la aplicación, como la página de inicio y el dashboard. Aquí, los elementos más importantes, como el balance económico y las metas de ahorro, se destacarán visualmente para que los usuarios puedan acceder a ellos rápidamente.
+* Organización Secuencial (Step-by-Step):
+  La organización secuencial se empleará en las funcionalidades de registro de usuario y metas de ahorro. Estas características requieren que el usuario siga una serie de pasos lógicos para completar una tarea, como registrar sus datos personales o definir una meta de ahorro.
+* Organización Matricial:
+  Este sistema se aplicará en la sección de educación financiera y en la generación de reportes. Los usuarios podrán filtrar y seleccionar la información según criterios como el tipo de contenido (videos, artículos, consejos) o las categorías de reportes (gastos, ingresos, inflación).
 
-Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Saifu por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario al historial de reportes, información de la empresa, educación financiera y metas y ahorro. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
-
-Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. 
-
+* Esquemas de Categorización:
+  * Alfabético: Se utilizará en la sección de ayuda, donde las preguntas frecuentes estarán ordenadas alfabéticamente para facilitar la búsqueda de información específica.
+  * Cronológico: Este esquema se aplicará en la sección de transacciones y reportes financieros, permitiendo a los usuarios ver sus gastos e ingresos en orden cronológico.
+  * Por Tópicos: En la sección de educación financiera, el contenido estará categorizado por temas como ahorro, planificación, y manejo de deudas.
+  * Según Audiencia: Se aplicará en la personalización del dashboard, donde la información será mostrada de acuerdo con las preferencias y perfiles del usuario
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
 
 Los encabezados se encuentran presentes en las pantallas que no forman parte del proceso principal de la aplicación. Cada uno resume de forma adecuada al usuario todo el contenido de la vista actual.
