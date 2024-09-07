@@ -98,7 +98,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 **(imagen del grafico en conjunto)**
 
 ## Contenido
-1. [**Capítulo I: Introducción.**](#1) <br>
+1. [**Capítulo I: Introducción.**](#1.) <br>
 1.1. [Startup Profile.](#1.1.) <br>
 1.1.1. [Descripción del startup.](#1.1.1.)<br>
 1.1.2.[Perfiles de los integrantes del equipo.](#1.1.2.)<br>
@@ -209,12 +209,12 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
-<div id='1'><h2>Capítulo I: Introducción</h2></div>
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
-<div id='11'><h3> 1.1 Startup Profile.</h3></div>
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-<div id='111'><h4> 1.1.1. Descripción del startup.</h4></div>
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
 
 Upeciones.AI somos un grupo de jóvenes quienes buscan impulsar la educación financiera en el Perú. Para ello, se confronta uno de los principales dilemas que se sugestiona como agravante de la pobreza en los estratos socioeconómicos bajos (niveles económicos A, B y C). Este problema es el analbetismo financiero y el desconocimiento del consumo responsable en los hogares peruanos. Upecinos.AI, busca cambiar el paradigma a través de la implementación de Saifu, cuya finalidad se centraliza en la planificación financiera y el hábito de ahorro en los jefes del hogar lo que evita el sobreendeudamiento y el déficit en las necesidades primarias que garantizan el concepto de buena calidad de vida. Para ello, se toma en cuenta la volatilidad económica y las proyecciones macroeconómicas nacionales, otorgadas por el Banco de la Nación.
 
