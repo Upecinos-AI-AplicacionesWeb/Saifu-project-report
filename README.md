@@ -670,7 +670,7 @@ ___
 
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
 
-**Entrevista a jefes de hogar de los sectores económicos D y E **
+**Entrevista a jefes de hogar de los sectores económicos D y E**
 
 |Entevistado 1|Jorge Reyes Vivas|
 |-|-|
@@ -847,6 +847,7 @@ Joven de 18 a 24 años en inicios de independencia:
 ![Impactmap-Saifu_jovenes](https://github.com/user-attachments/assets/db7ee38b-4858-482e-8560-ba5b692b08a5)
 
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
+
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
 |1|US05|Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera.|3|
@@ -1139,7 +1140,8 @@ Registro de Transacciones:
 ![WhatsApp Image 2024-09-06 at 5 42 59 AM](https://github.com/user-attachments/assets/fd6f6050-8fff-425e-8011-f31782081e98)
 
 <div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
-Enlace para acceder al [Figma](https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=1-2&t=q6KwYYAAh63asgnC-1)<br>
+
+Enlace para acceder al [Figma](https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRAMES%7CMOCKUPS----SAIFU?node-id=1-2&t=q6KwYYAAh63asgnC-1)
 
 Crear Cuenta:
 
