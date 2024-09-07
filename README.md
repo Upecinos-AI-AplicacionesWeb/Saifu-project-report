@@ -1658,7 +1658,7 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 |Reyes Valenzuela, Renato German|Implementación de la sección features|
 |Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
 
-![WhatsApp Image 2024-09-06 at 11 35 35 AM (1)](https://github.com/user-attachments/assets/453e2d9d-cdb6-4588-8561-d905fe0a1ca8)
+![WhatsApp Image 2024-09-07 at 10 28 56 AM](https://github.com/user-attachments/assets/7f7da17b-d479-403f-8812-8cd652cf6d8f)
 
 
 
