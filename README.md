@@ -672,21 +672,35 @@ ___
 
 **Entrevista a jefes de hogar de los sectores económicos D y E **
 
-|Entevistado 1|wii|
+|Entevistado 1|Jorge Reyes Vivas|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:--|
+|Edad|55|
+|Distrito|La Molina|
+|Screenshot|![](assets/entrevistado-Jorge.JPG)|
+|Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EZE0KFiBow5LoYDsSd5O9JQByCgdRjTXsBLPmrGmeryc-A?e=JcwNhp|
+
+|Entevistado 2|Yenny Reyes Vivas|
+|-|-|
+|Edad|49|
+|Distrito|La Molina|
+|Screenshot|![](assets/entrevistada-yenny.JPG)|
+|Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EdxTSNPTLSxBuz991GFEnsQBMqI-r4VzA0jHUe3bfobKCA?e=eROese|
+
 
 **Entrevista a jóvenes de 18 a 24 años en inicios de independencia**
 
-|Entevistado 1|wii|
+|Entevistado 1|Paulo Paucar|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:--
+|Edad|19 años|
+|Distrito|San miguel|
+|Screenshot|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/EntrevistaOpenSource.png)|
+|Timing: 0:00-6:06 |URL: https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing
+|Entevistado 2|Jose Carlos|
+|-|-|
+|Edad|23 años|
+|Distrito|San Juan de Miraflores|
+|Screenshot|![](assets/Entrevista_2-S2.jpg)|
+|Timing: 0:00-4:38 |URL:https://drive.google.com/file/d/1y22qqGlsQCkAOAjaprv_jddntPExWOcj/view?usp=sharing
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas.</h4></div>
 
