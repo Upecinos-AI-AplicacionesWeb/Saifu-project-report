@@ -78,6 +78,7 @@ GitHub también proporciona una visualización detallada del historial de las ra
 Los integrantes son:
 
 * Jessica Comettant (Mei0202)
+* Johan Quiñones (johaanq)
 (**Especifiquen los usuarios**)
 
 Se explican las ramas más prominentes:
