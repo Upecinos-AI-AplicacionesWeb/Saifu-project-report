@@ -1519,11 +1519,11 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 ![Github_pages](assets/Deploy-LandingPage.JPG)
 
-Enlace para acceder a la [landing page](https://upecinos-ai-aplicacionesweb.github.io/Saifu-LandingPage/)
+Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github.io/Saifu-LandingPage/)
 
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
-|1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Google Meet|Renato Reyes|Renato Reyes, Jessica Comettant, Luis Cisneros, Marco Góngora, Andrés Rojas|
+|1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Google Meet|Renato Reyes|Renato Reyes, Jessica Comettant, Fabricio Quiroz, Sebastián Flores, Johan Quiñones|
 
 |Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
 |-|-|-|
@@ -1646,7 +1646,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
 
-Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/features.html
+Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github.io/Saifu-LandingPage/)
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
