@@ -80,6 +80,7 @@ Los integrantes son:
 * Jessica Comettant (Mei0202)
 * Johan Quiñones (johaanq)
 * Renato German Reyes Valenzuela (Nato0211)
+* Sebastian Flores(Sebas2999)
 (**Especifiquen los usuarios**)
 
 Se explican las ramas más prominentes:
@@ -208,6 +209,28 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
+
+# Student Outcome
+
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados</td>
+    
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
+  </tr>
+</table>
+
+
+
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
