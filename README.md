@@ -231,7 +231,7 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 ##### Logotipo del servicio
 ![logotipo_DPS 1](https://github.com/user-attachments/assets/ccdab840-29f7-4ee1-8d0b-98cd7f94938a)
 
-<div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
 | Descripción del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                           Perfil del integrante del equipo                           |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------:|
@@ -240,8 +240,8 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 | Mi nombre es **Sebastian Flores Manrique**. Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                                                                               |    <img src="assets/members-profile/sebastian.jpeg" width="100%" alt="Sebastian">    |
 | Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras.|![](/assets/members-profile/johan.png)|
 
-<div id='12'><h3> 1.2. Solution Profile.</h3></div>
-<div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
 ###### What (Qué)
 El problema que hemos detectado radica en la baja capacidad financiera de la población peruana, enfocado en cómo manejan sus gastos mensuales y la falta de proyección a futuro. Teniendo como evidencia que solos el 21% de los peruanos puede realizar un cálculo de interés simple o que solo el 42% pudo ahorrar en un plazo de 12 meses en el año 2022, según la "Encuesta Nacional de Capacidades Financieras 2022" del SBS.
@@ -272,8 +272,8 @@ El producto se utilizaría de manera diaria o mensual para realizar el registro 
 Se estima que los beneficiados de nuestro producto se mida en función a la importancia que den los usuarios a las funcionalidades de Saifu, esto debido a que el objetivo de Saifu es trabajar en función a los datos que pueda brinar el usuario
 
 
-<div id='122'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1221'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
 ###### **Problem Statement:** 
 
@@ -299,7 +299,7 @@ La ausencia de herramientas que consideren proyecciones macroeconómicas, como l
 ###### Propuesta de solución:
 ¿Cómo podríamos proporcionar alertas oportunas y recomendaciones personalizadas basadas en las proyecciones macroeconómicas a los jefes de hogar permitiéndoles anticipar y ajustar sus gastos según los cambios previstos en los precios de alimentos y servicios esenciales?
 
-<div id='1222'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
 1.  **Creemos que nuestros usuarios necesitan** una aplicación que les permita acceder a la información financiera actualizada del Banco de la Nación.
@@ -347,7 +347,7 @@ El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un
 **Creemos que** el programa debe de incluir herramientas de generación de informes y gráficos que permitirán a los usuarios visualizar fácilmente los datos referentes a la situación financiera y tomar decisiones basadas en información visualmente clara.
 
 
-<div id='1223'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
     
@@ -382,7 +382,7 @@ El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un
     **Cuando** se perciba una reducción del 25% en la necesidad de endeudamiento entre los usuarios activos.
 
 
-<div id='1224'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
@@ -403,18 +403,18 @@ En Perú solo 13 % de la población tiene un nivel de educación financiera adec
 Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene una cuenta de ahorro. Este último vendría a ser el grupo con mayor conocimiento en educación financiera. Ello indica que este segmento de la población es un sector predispuesto a adquirir mayor conocimiento financiero. Por lo tanto, serán clientes clave del servicio dentro del mercado.
 
 
-<div id='131'><h4> 1.3.1 Stakeholders.</h4></div>
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
 
 * **Stakelholder Internos:** Equipo Upecinos-AI y resto de integrantes del equipo de desarrollo
 * **Stakelholder Externos:** Jefes de hogar de los sectores económicos D y E, jóvenes de 18 a 24 años en inicios de independencia, estudiantes y/o profesionales en carreras involucradas con economía, finanzas o administración.
 
 ![](https://github.com/user-attachments/assets/9741cc2f-9a58-4993-9fad-8fc2df4e2dd8)
 
-<div id='2'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
 
-<div id='21'><h3> 2.1. Competidores.</h3></div>
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
 
-<div id='211'><h4> 2.1.1. Análisis competitivo.</h4></div>
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
 
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
