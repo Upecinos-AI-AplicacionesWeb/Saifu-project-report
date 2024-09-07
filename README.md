@@ -1377,7 +1377,7 @@ El proyecto seguirá las convenciones de flujo de trabajo establecidas por el mo
 
 **Repositorio de GitHub:**
 Enlace para acceder a la [organización en GitHub](https://github.com/Upecinos-AI-AplicacionesWeb)
-Enlace para acceder al repositorio de la [Landing Page](https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/Upecinos-AI-AplicacionesWeb/Saifu-LandingPage)
 
 **Flujo de trabajo GitFlow:**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
@@ -1432,7 +1432,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 ![Github_pages](assets/Deploy-LandingPage.JPG)
 
-Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/Saifu-LandingPage/)
+Enlace para acceder a la [landing page](https://upecinos-ai-aplicacionesweb.github.io/Saifu-LandingPage/)
 
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
 |-|-|-|-|-|-|
@@ -1448,9 +1448,9 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
 
 
-![Trello Sprint 1](assets/trello-upecionosAi.JPG)
+![Trello Sprint 1](assets/trello-saifu-web.JPG)
 
-Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa5f5853d1403d644d087bb9b44f079EC395/upecinos-ai-open
+Link del Trello: https://trello.com/invite/b/66dc663ee577d090efed45d9/ATTIff8970759cc9d7ae29c9dab52b771432C7F541C4/upecinos-ai-web
 
 <table>
         <tr>
