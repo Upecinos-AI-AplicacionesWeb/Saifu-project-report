@@ -1320,5 +1320,235 @@ Métodos:
 
 ![Base de Datos](assets/Database-design-saifu.JPG).
 
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management**
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia [https://trello.com/es](https://trello.com/es)
+
+**Product UX/UI Design**
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. Ruta de referencia [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. Ruta de referencia [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+**Software Testing**
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. Ruta de referencia [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
+**Software Development**
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Ruta de referencia [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación. Ruta de referencia [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+**Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
+**Software Documentation and Project Management**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. Ruta de referencia [https://github.com/](https://github.com/)
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/Upecinos-AI-AplicacionesWeb)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/Upecinos-AI-OpenSource/Saifu-LandingPage)
+
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+**Actualizar GitFlow
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+**Versionamiento Semántico:**
+Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:**
+Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits. La estructura a seguir será la siguiente:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![Github_pages](assets/Deploy-LandingPage.JPG)
+
+Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/Saifu-LandingPage/)
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Google Meet|Renato Reyes|Renato Reyes, Jessica Comettant, Luis Cisneros, Marco Góngora, Andrés Rojas|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|-|-|-|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Saifu|9|9|
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+
+![Trello Sprint 1](assets/trello-upecionosAi.JPG)
+
+Link del Trello: https://trello.com/invite/b/66db1e3982afd3f358db5117/ATTI1911fa5f5853d1403d644d087bb9b44f079EC395/upecinos-ai-open
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Información y Ventajas Clave en Landing Page</td>
+            <td>UT01</td>
+            <td>Editar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto</td>
+            <td>1</td>
+            <td>Johan Quiñones</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Ejemplos de Ahorro y Gestión de Ingresos </td>
+            <td>UT02</td>
+            <td>Agregar información sobre finanzas</td>
+            <td>Añadir las funcionalidades principales de Saifu</td>
+            <td>1</td>
+            <td>Renato Reyes</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Testimonios de Usuarios</td>
+            <td>UT03</td>
+            <td>Insertar comentarios positivos sobre la aplicación</td>
+            <td>Añadir la funcionalidad de desplegar y contraer para las opciones de pregunta</td>
+            <td>2</td>
+            <td>Fabrizio Quiroz y Sebastian Flores</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Interfaz Simple y Atractiva</td>
+            <td>UT04</td>
+            <td>Desarrollo de header y footer de la aplicación</td>
+            <td>Diseñar la aplicación, desarrollo de about-us</td>
+            <td>1</td>
+            <td>Jessica Comettant</td>
+            <td>Done</td>
+        </tr>
+  
+    </table>
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
+1. Sección Beneficios
+
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+![Features -mock](https://github.com/user-attachments/assets/56523959-8b74-4ae9-8bda-d0c8feb9eb03)
+
+
+2. Sección Saber más
+
+    En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+
+![About us -mock](https://github.com/user-attachments/assets/e389b99f-bdf9-4120-a9a2-ca24017e8799)
+
+3. Sección planes
+
+    En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+
+![Pricing plan -mock](https://github.com/user-attachments/assets/f5f42b6c-42f1-48cb-82fe-7b7a9d444ea3)
+
+3. Sección Ayuda
+![Help center -mock](https://github.com/user-attachments/assets/b11d7ac8-66d8-4eab-94a7-a76ea6404e21)
+
+4. Sección Contactanos
+![Contact us -mock](https://github.com/user-attachments/assets/392dfcc0-3cf2-415e-8b5b-ae868fee96da)
+
+5. Sección FAQs
+![FAQs -moc](https://github.com/user-attachments/assets/b596f169-4470-44d5-a2f1-5dd70ea34cd3)
+
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/features.html
+
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Quiroz Zambrano, Fabrizio Quiroz|Implementación de la sección footer y Plans|
+|Quiñones Tintaya, Johan Jorge|Implementación de la sección FAQ|
+|Flores Manrique, Sebastian Enrique|Implementación de la sección contact-us|
+|Reyes Valenzuela, Renato German|Implementación de la sección features|
+|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
+
+![WhatsApp Image 2024-09-06 at 11 35 35 AM (1)](https://github.com/user-attachments/assets/453e2d9d-cdb6-4588-8561-d905fe0a1ca8)
+
 
 
