@@ -240,8 +240,7 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 | Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo. | ![](https://github.com/user-attachments/assets/b3c1d064-1dbd-471d-a87c-fdfced051bb1) |
 | Mi nombre es **Renato German Reyes Valenzuela** y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.                                                  |                                 ![]*Inserte Imagen*                                  
 | Mi nombre es **Sebastian Flores Manrique**. Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                                                                               |    <img src="assets/members-profile/sebastian.jpeg" width="100%" alt="Sebastian">    |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                           |                                           |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |||
+| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras.|![](/assets/members-profile/johan.png)|
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -681,46 +680,57 @@ ___
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
 
+Nuestros User Personas representan perfiles clave de usuarios que abarcan diferentes segmentos de la población objetivo. Cada persona ha sido creada con base en un análisis detallado de entrevistas, investigaciones de mercado y estudios de la competencia.
+
 * User persona jefe de hogar del sector económico D o E
 
-**(insertar imagen )**
+![RosaMartines_UserPersona](/assets/user-persona/RosaMartinez.png)
+
+*Imagen: Rosa Martínez*
 
 * User persona joven de 18 a 24 años en inicios de independencia
-**(insertar imagen)**
 
+![CarlosGomez_UserPersona](/assets/user-persona/CarlosGomez.png)
+
+*Imagen: Carlos Gómez*
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
 
-* **María Rodríguez (Jefe de Hogar del Sector Económico D o E):**
+* **Rosa Martinez (Jefe de Hogar del Sector Económico D o E):**
 
 <table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E (María Rodríguez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <td>Registrar gastos diarios</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Planificar el presupuesto semanal/mensual</td> <td>Alta</td> <td>Mensual</td> </tr><td>Buscar ofertas y precios bajos</td> <td>Media</td> <td>Semanal</td> </tr> <td>Ahorrar para emergencias</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Controlar el gasto en servicios básicos</td> <td>Media</td> <td>Mensual</td></tr></table>
 
-* **Luis Gómez (Joven de 18 a 24 años en inicios de independencia):**
+* **Carlos Gómez (Joven de 18 a 24 años en inicios de independencia):**
 
 <table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
     
+El User Task Matrix revela que los usuarios valoran altamente tareas relacionadas con el monitoreo y ajuste de sus finanzas, especialmente en cuanto a la anotación de gastos y la planificación del presupuesto mensual. Sin embargo, la frecuencia con la que realizan estas tareas varía, destacando la necesidad de que "Saifu" ofrezca herramientas que automaticen y simplifiquen estos procesos, adaptándose a las diferentes necesidades de los usuarios. Además, se evidencia la importancia de proporcionar soluciones personalizadas y accesibles, especialmente para usuarios con menos acceso a herramientas financieras.
+
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
-**(pequeña descripcion)**
+En los User Journey Mappings presentados para nuestros User Personas, se detalla el recorrido que cada uno de estos usuarios sigue al interactuar con la plataforma de gestión financiera, abarcando desde el momento en que toman conciencia del producto (aware) hasta la fase en que podrían dejar de usarlo (leave).
 
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+
+![RosaMartinez_JourneyMapping](/assets/journey-mappings/RosaMartinez_JourneyMapping.png)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
 
+![CarlosGomez_JorneyMapping](/assets/journey-mappings/CarlosGomez_JourneyMapping.png)
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
-**(pequeña descripcion)**
+El Empathy Mapping nos permitio identificar los dolores (pains) que enfrentan, como sus temores, frustraciones, y ansiedades de nuestros User Personas, así como los beneficios (gains) que buscan, incluyendo sus necesidades, esperanzas, y aspiraciones.
 
 Jefe de Hogar del sector ecómico D o E:
-**(insertar imagen y enlace)**
+
+![RosaMartinez_EmpathyMapping](/assets/empathy-mappings/RosaMartinez_EmpathyMapping.png)
 
 Joven de 18 a 24 años en inicios de independencia:
-**(insertar imagen y enlace)**
+
+![CarlosGomez_EmpathyMapping](/assets/empathy-mappings/CarlosGomez_EmpathyMapping.png)
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
 
