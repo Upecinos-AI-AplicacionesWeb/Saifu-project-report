@@ -32,19 +32,26 @@
 
 ## Registro de versiones del informe
 
-|Versión |Fecha|Autor|Descripción de modificación|
-|--------|-----|-----|---------------------------|
-|1.0|13/08/2024|Comettant|Creación del documento de trabajo en formato markdown|
-|1.1|20/08/2024|Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
-|1.2|23/08/2024|Quiñones|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
-|1.3|25/08/2024|Quiroz|Elaboración de user personas, impact mapping, as-is y to-be|
-|1.4|26/08/2024|Comettant|Elaboración de user stories, product backlog|
-|1.5|28/08/2024|Reyes|Elaboración de prototipos de wireframes y mockups|
-|1.6|31/08/2024|Quiroz|Redacción de style guidelines e information architecture|
-|1.7|03/09/2024|Comettant|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
-|1.8|03/09/2024|Comettant, Quiñones|Registro de evidencias y entrega del TB1|
-|1.9|04/09/2024|Flores Manrique, Sebastian|Elaboración y redacción de los competidores, análisis, estrategias y tácticas|
-|1.9.1|05/09/2024|Flores Manrique, Sebastian|Elaboración y redacción de information architecture, organization systems y labeling systems|
+| Versión |Fecha| Autor                      | Descripción de modificación                                                                                                                                     |
+|---------|-----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     |13/08/2024| Comettant Rubiños, Jessica | Creación del documento de trabajo en formato markdown                                                                                                           |
+| 1.1     |20/08/2024| Reyes Valenzuela, Renato                    | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
+| 1.2     |23/08/2024| Quiñones Tintaya, Johan                  | Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas                                                                             |
+| 1.3     |25/08/2024| Quiroz Zambrano, Fabrizio                    | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
+| 1.4     |26/08/2024| Comettant Rubiños, Jessica | Elaboración de user stories, product backlog                                                                                                                    |
+| 1.5     |28/08/2024| Reyes Valenzuela, Renato                      | Elaboración de prototipos de wireframes y mockups                                                                                                               |
+| 1.6     |31/08/2024| Quiroz Zambrano, Fabrizio                    | Redacción de style guidelines e information architecture                                                                                                        |
+| 1.7     |03/09/2024| Comettant Rubiños, Jessica | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+| 1.8     |03/09/2024| Comettant Rubiños, Jessica | Registro de evidencias y entrega del TB1                                                                                                                        |
+| 1.9     |04/09/2024| Flores Manrique, Sebastian | Elaboración y redacción de los competidores, análisis, estrategias y tácticas                                                                                   |
+| 1.9.1   |05/09/2024| Flores Manrique, Sebastian | Elaboración y redacción de information architecture, organization systems y labeling systems                                                                    |
+| 2.0     |20/09/2024| Flores Manrique, Sebastian | Creación del proyeco para el front end                                                                                                                          |
+| 2.1     |20/09/2024| Flores Manrique, Sebastian | Creación de la estructura de carpetas y archivos del front end                                                                                                  |
+| 2.2     |20/09/2024| Comettant Rubiños, Jessica | Implementación del frontEnd educación financiera                                                                                                                |
+| 2.3     |20/09/2024| Quiñones Tintaya, Johan    | Implementación del front End la gestión de presupuesto y desafios financieros                                                                                   |
+| 2.4     |20/09/2024| Quiroz Zambrano, Fabrizio  | Implementación del frontEnd servicio al cliente y recomendar aplicaicón                                                                                         |
+| 2.5     |20/09/2024| Reyes Valenzuela, Renato   | Implementación del frontEnd de registro de transacción, registro de datos, iniciar sesión y crear cuenta                                                        |
+| 2.6     |20/09/2024| Flores Manrique, Sebastian | Implementación del frontEnd de información de la aplicaicón, temas financieros                                                                                  |
 
 ## Project Report Collaboration Insights
 
@@ -220,12 +227,35 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados</td>
-    
+    <td>
+      <b>TB1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué del Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué del Landing Page Product Backlog,Impact Mapping, registro y análisis de entrevistas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué del Capitulo II Análisis de competidores, User Persona, User Task Matrix.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué del Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de las Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía
+      <br><br><b>TP1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé planes de suscripcion/pasarelas de pagos/educacion financiera/desafios financieros.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
+      <td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados
+    </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
+    <td>
+      <b>TB1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué del Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué del Landing Page Product Backlog,Impact Mapping, registro y análisis de entrevistas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué del Capitulo II Análisis de competidores, User Persona, User Task Matrix.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué del Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de las Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía
+      <br><br><b>TP1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé planes de suscripcion/pasarelas de pagos/educacion financiera/desafios financieros.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
+    </td>
+    <td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
   </tr>
 </table>
 
@@ -1660,5 +1690,176 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 
 ![WhatsApp Image 2024-09-07 at 10 28 56 AM](https://github.com/user-attachments/assets/7f7da17b-d479-403f-8812-8cd652cf6d8f)
 
+### 5.2.2 Sprint 2
+
+### 5.2.2.1 Sprint Planning 2
+
+<p>Se planeó el segundo sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
 
 
+| **Sprint #**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Date                               | 2024-09-16                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Time                               | 5:00 PM                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Location                           | Virtual                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Prepared by                        | Reyes Valenzuela, Renato German                                                                                                                                                                                                                                                                                                                                                                             |
+| Attendees (to planning meeting)    | <p>Comettant Rubiños, Jessica Elizabeth</p><p>Quiroz Zambrano, Fabrizio Quiroz</p><p>Quiñones Tintaya, Johan Jorge</p><p>Flores Manrique, Sebastian Enrique</p><p>Reyes Valenzuela, Renato German</p><p></p>                                                                                                                                                                                                   |
+| Sprint n - 2 Review Summary        | Durante el primer sprint, el equipo logró implementar el landing page y desplegarlo satisfactoriamente. Todas las tareas planificadas fueron completadas según las especificaciones requeridas. El despliegue se llevó a cabo sin problemas y el landing page está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.                                                      |
+| Sprint n - 2 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint 2 Goal                      | El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio.                                                                                                                                                                                                                                                                     |
+| Sprint 2 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+
+### 5.2.2.2 Sprint Backlog 2
+
+<p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el FrontEnd. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Registro de Joven Independiente</td>
+			<td>T01</td>
+			<td>Creación de la sección de registar nuevo usuario</td>
+			<td>Crear la sección de registar nuevo usuario, que permite registrar un nuevo usuario con sus datos correspondientes.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Crear la sección Iniciar Sesión</td>
+			<td>Crear la sección de iniciar sesión, donde el usuario accederá a la aplicación a través de su usuario y contraseña única.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US06</td>
+			<td rowspan="2">Ejemplos de Ahorro y Gestión de Ingresos</td>
+			<td>T03</td>
+			<td>Sección de búsqueda de temas financieros</td>
+			<td>Crear la sección de búsqueda temas financieros, donde el usuario podrá encontrar temas como ejemplo de ahorros.</td>
+			<td>4</td>
+			<td>Flores Mnarique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td>Elección de tema financiero</td>
+			<td>Crear una sección para cada tema financiero donde se apreciará la información más detallada.</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US11</td>
+			<td rowspan="2">Balance Económico Actualizado</td>
+			<td>T05</td>
+			<td>Crear la sección ver balance. </td>
+			<td>Crear la sección ver balance para poder visualizar su balance atualizado.</td>
+			<td>6</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Ajustar gastos</td>
+			<td>Mostare sugerencias de ajustes al usuario una vez sus gastos han superado sus ingresos.</td>
+			<td>2</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US14</td>
+			<td rowspan="2">Registro de Gastos Diarios</td>
+			<td>T07</td>
+			<td>Crear Sección de registar gastos diarios</td>
+			<td>Crear la sección donde el usuario podrá ingresar todos sus gastos diarios.</td>
+			<td>6</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Gestionar gastos diarios</td>
+			<td>Permitir al usuario poder agregar, modificar o eliminar sus gastos del registro.</td>
+			<td>4</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US17</td>
+			<td rowspan="2">Acceso a Material Educativo</td>
+			<td>T09</td>
+			<td>Sección educación financiera</td>
+			<td>Crear la sección de registro de resultados, donde el usuario podrá visualizar diferentes secciones con temas relacionados a la educación financiera.</td>
+			<td>4</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Sección Desafios Financieros</td>
+			<td>Crear la sección de desafios financieros donde podrá recibir recompensas tras completar ciertas actividades.</td>
+			<td>6</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                          | Branch                        | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
+| ----------------------------------- |-------------------------------| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- |--------------------|
+| Saifu-FrontEnd | master                        | 41253d09a536fbd5c0c21a7ed6b51bb52a41634c | chore:initial commit                                                                                                          |                     | 20/09/24           |
+| Saifu-FrontEnd | develop                       | c8556cd7c81aa969802b05b2acfc7ff6b614141b | feat: add sidebar and toolbar component.                                                                                                        |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 511068749a6230a923375a15145ab900f27a2f4b | chore: create feature/profile                                                                                      |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 6d772c766dbba9c01f728ff319ef2922e4294427 | chore: create feature/login                                                                                      |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 49d60aa12278c5c33a7b4cd585fff02f97cd6a1c | chore: create feature/transaction                                                                                              |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 1b4b63644060337e5b792de49827480efbd7307b | chore: create feature/financial-information.                                                                               |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 7a1d756848feee02bea9a23c2b7a4592e40fb0f0 | feat: add financial-topics component and images.                                                                                                   |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-information component.                                                                                                   |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-theme component.                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/profile               | 5620934fb20175697ad488e60c16e5394578f1fb | feat: add main-page.component.vue and profile.component.vue and routes.                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/profile               | 6d21d87b988a0cd1c7db25593edc018359bb76b5 | feat: add profile-edit component, and functional delete button                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/subscription          | 51f1f45b3ac036715e1274ffba787ced8e464d42 | feat:add education component                                                                                                  |                     | 24/09/24           |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.2.5 Execution Evidence for Sprint Review
+
+- Login
+  <img src="assets/execution-evidence/login.jfif">
+- Transacción
+  <img src="assets/execution-evidence/transaccion.jfif">
+- Notificaciones
+  <img src="assets/execution-evidence/notificaciones.jfif">
+- Recomendación
+  <img src="assets/execution-evidence/recomendacion.jfif">
+- Servicio al cliente:
+  <img src="assets/execution-evidence/servicio-cliente.jfif">
+- Invitar a amigos:
+<img src="assets/execution-evidence/invitar.jfif">
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
