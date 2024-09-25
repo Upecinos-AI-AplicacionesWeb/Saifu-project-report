@@ -32,19 +32,26 @@
 
 ## Registro de versiones del informe
 
-|Versión |Fecha|Autor|Descripción de modificación|
-|--------|-----|-----|---------------------------|
-|1.0|13/08/2024|Comettant|Creación del documento de trabajo en formato markdown|
-|1.1|20/08/2024|Reyes|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
-|1.2|23/08/2024|Quiñones|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
-|1.3|25/08/2024|Quiroz|Elaboración de user personas, impact mapping, as-is y to-be|
-|1.4|26/08/2024|Comettant|Elaboración de user stories, product backlog|
-|1.5|28/08/2024|Reyes|Elaboración de prototipos de wireframes y mockups|
-|1.6|31/08/2024|Quiroz|Redacción de style guidelines e information architecture|
-|1.7|03/09/2024|Comettant|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
-|1.8|03/09/2024|Comettant, Quiñones|Registro de evidencias y entrega del TB1|
-|1.9|04/09/2024|Flores Manrique, Sebastian|Elaboración y redacción de los competidores, análisis, estrategias y tácticas|
-|1.9.1|05/09/2024|Flores Manrique, Sebastian|Elaboración y redacción de information architecture, organization systems y labeling systems|
+| Versión |Fecha| Autor                      | Descripción de modificación                                                                                                                                     |
+|---------|-----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     |13/08/2024| Comettant Rubiños, Jessica | Creación del documento de trabajo en formato markdown                                                                                                           |
+| 1.1     |20/08/2024| Reyes Valenzuela, Renato                    | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
+| 1.2     |23/08/2024| Quiñones Tintaya, Johan                  | Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas                                                                             |
+| 1.3     |25/08/2024| Quiroz Zambrano, Fabrizio                    | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
+| 1.4     |26/08/2024| Comettant Rubiños, Jessica | Elaboración de user stories, product backlog                                                                                                                    |
+| 1.5     |28/08/2024| Reyes Valenzuela, Renato                      | Elaboración de prototipos de wireframes y mockups                                                                                                               |
+| 1.6     |31/08/2024| Quiroz Zambrano, Fabrizio                    | Redacción de style guidelines e information architecture                                                                                                        |
+| 1.7     |03/09/2024| Comettant Rubiños, Jessica | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+| 1.8     |03/09/2024| Comettant Rubiños, Jessica | Registro de evidencias y entrega del TB1                                                                                                                        |
+| 1.9     |04/09/2024| Flores Manrique, Sebastian | Elaboración y redacción de los competidores, análisis, estrategias y tácticas                                                                                   |
+| 1.9.1   |05/09/2024| Flores Manrique, Sebastian | Elaboración y redacción de information architecture, organization systems y labeling systems                                                                    |
+| 2.0     |20/09/2024| Flores Manrique, Sebastian | Creación del proyeco para el front end                                                                                                                          |
+| 2.1     |20/09/2024| Flores Manrique, Sebastian | Creación de la estructura de carpetas y archivos del front end                                                                                                  |
+| 2.2     |20/09/2024| Comettant Rubiños, Jessica | Implementación del frontEnd educación financiera                                                                                                                |
+| 2.3     |20/09/2024| Quiñones Tintaya, Johan    | Implementación del front End la gestión de presupuesto y desafios financieros                                                                                   |
+| 2.4     |20/09/2024| Quiroz Zambrano, Fabrizio  | Implementación del frontEnd servicio al cliente y recomendar aplicaicón                                                                                         |
+| 2.5     |20/09/2024| Reyes Valenzuela, Renato   | Implementación del frontEnd de registro de transacción, registro de datos, iniciar sesión y crear cuenta                                                        |
+| 2.6     |20/09/2024| Flores Manrique, Sebastian | Implementación del frontEnd de información de la aplicaicón, temas financieros                                                                                  |
 
 ## Project Report Collaboration Insights
 
