@@ -1861,6 +1861,14 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Implementación de la aplicación Web usando el serivcio de Google Cloud para crear una Máquina Virtual con un SO Debiant Linux para poder desplegar la aplicación, además usando un servidor web Nginx
+<img src="assets/Evidencia1.png">
+
+Evidencia de el despliegue de la apliación y funcionamiento
+<img src="assets/Evidencia2.png">
+
+Evidencia de la máquina virtual creada en Google Cloud
+<img src="assets/Evidencia3.png">
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
