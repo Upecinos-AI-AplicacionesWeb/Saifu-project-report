@@ -1660,5 +1660,135 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 
 ![WhatsApp Image 2024-09-07 at 10 28 56 AM](https://github.com/user-attachments/assets/7f7da17b-d479-403f-8812-8cd652cf6d8f)
 
+### 5.2.2 Sprint 2
 
+### 5.2.2.1 Sprint Planning 2
+
+<p>Se planeó el segundo sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+
+| **Sprint #**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Date                               | 2024-09-16                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Time                               | 5:00 PM                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Location                           | Virtual                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Prepared by                        | Reyes Valenzuela, Renato German                                                                                                                                                                                                                                                                                                                                                                             |
+| Attendees (to planning meeting)    | <p>Comettant Rubiños, Jessica Elizabeth</p><p>Quiroz Zambrano, Fabrizio Quiroz</p><p>Quiñones Tintaya, Johan Jorge</p><p>Flores Manrique, Sebastian Enrique</p><p>Reyes Valenzuela, Renato German</p><p></p>                                                                                                                                                                                                   |
+| Sprint n - 2 Review Summary        | Durante el primer sprint, el equipo logró implementar el landing page y desplegarlo satisfactoriamente. Todas las tareas planificadas fueron completadas según las especificaciones requeridas. El despliegue se llevó a cabo sin problemas y el landing page está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.                                                      |
+| Sprint n - 2 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint 2 Goal                      | El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio.                                                                                                                                                                                                                                                                     |
+| Sprint 2 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+
+### 5.2.2.2 Sprint Backlog 2
+
+<p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el FrontEnd. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Registro de Joven Independiente</td>
+			<td>T01</td>
+			<td>Creación de la sección de registar nuevo usuario</td>
+			<td>Crear la sección de registar nuevo usuario, que permite registrar un nuevo usuario con sus datos correspondientes.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Crear la sección Iniciar Sesión</td>
+			<td>Crear la sección de iniciar sesión, donde el usuario accederá a la aplicación a través de su usuario y contraseña única.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US06</td>
+			<td rowspan="2">Ejemplos de Ahorro y Gestión de Ingresos</td>
+			<td>T03</td>
+			<td>Sección de búsqueda de temas financieros</td>
+			<td>Crear la sección de búsqueda temas financieros, donde el usuario podrá encontrar temas como ejemplo de ahorros.</td>
+			<td>4</td>
+			<td>Flores Mnarique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td>Elección de tema financiero</td>
+			<td>Crear una sección para cada tema financiero donde se apreciará la información más detallada.</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US11</td>
+			<td rowspan="2">Balance Económico Actualizado</td>
+			<td>T05</td>
+			<td>Crear la sección ver balance. </td>
+			<td>Crear la sección ver balance para poder visualizar su balance atualizado.</td>
+			<td>6</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Ajustar gastos</td>
+			<td>Mostare sugerencias de ajustes al usuario una vez sus gastos han superado sus ingresos.</td>
+			<td>2</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US14</td>
+			<td rowspan="2">Registro de Gastos Diarios</td>
+			<td>T07</td>
+			<td>Crear Sección de registar gastos diarios</td>
+			<td>Crear la sección donde el usuario podrá ingresar todos sus gastos diarios.</td>
+			<td>6</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Gestionar gastos diarios</td>
+			<td>Permitir al usuario poder agregar, modificar o eliminar sus gastos del registro.</td>
+			<td>4</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US17</td>
+			<td rowspan="2">Acceso a Material Educativo</td>
+			<td>T09</td>
+			<td>Sección educación financiera</td>
+			<td>Crear la sección de registro de resultados, donde el usuario podrá visualizar diferentes secciones con temas relacionados a la educación financiera.</td>
+			<td>4</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Sección Desafios Financieros</td>
+			<td>Crear la sección de desafios financieros donde podrá recibir recompensas tras completar ciertas actividades.</td>
+			<td>6</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
 
