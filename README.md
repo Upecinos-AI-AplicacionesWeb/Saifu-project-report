@@ -1843,6 +1843,19 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
+- Login
+  <img src="assets/execution-evidence/login.jfif">
+- Transacción
+  <img src="assets/execution-evidence/transaccion.jfif">
+- Notificaciones
+  <img src="assets/execution-evidence/notificaciones.jfif">
+- Recomendación
+  <img src="assets/execution-evidence/recomendacion.jfif">
+- Servicio al cliente:
+  <img src="assets/execution-evidence/servicio-cliente.jfif">
+- Invitar a amigos:
+<img src="assets/execution-evidence/invitar.jfif">
+
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
 Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
