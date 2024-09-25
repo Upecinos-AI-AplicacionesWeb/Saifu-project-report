@@ -227,12 +227,35 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados</td>
-    
+    <td>
+      <b>TB1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué del Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué del Landing Page Product Backlog,Impact Mapping, registro y análisis de entrevistas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué del Capitulo II Análisis de competidores, User Persona, User Task Matrix.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué del Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de las Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía
+      <br><br><b>TP1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé planes de suscripcion/pasarelas de pagos/educacion financiera/desafios financieros.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
+      <td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados
+    </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>Jessica Comettant, Renato German<br><b>TB1:</b><br> Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog.<br>Impact Mapping, registro y análisis de entrevistas, Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía.<br><br> Fabrizio Quiroz, Johan Quiñones, Sebastian Flores <br><b>TB1:</b><br> <br>Capitulo II Análisis de competidores, User Persona, User Task Matrix, Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping</td><td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
+    <td>
+      <b>TB1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué del Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué del Landing Page Product Backlog,Impact Mapping, registro y análisis de entrevistas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué del Capitulo II Análisis de competidores, User Persona, User Task Matrix.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué del Journey Mapping, Empathy Mapping, As-is Scenario Mapping, To-be Scenario Mapping, Impact Mapping
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de las Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía
+      <br><br><b>TP1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé planes de suscripcion/pasarelas de pagos/educacion financiera/desafios financieros.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
+    </td>
+    <td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
   </tr>
 </table>
 
