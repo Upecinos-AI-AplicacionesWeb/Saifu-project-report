@@ -1854,7 +1854,7 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 - Servicio al cliente:
   <img src="assets/execution-evidence/servicio-cliente.jfif">
 - Invitar a amigos:
-<img src="assets/execution-evidence/invitar.jfif">
+  <img src="assets/execution-evidence/invitar.jfif">
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
@@ -1863,3 +1863,6 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
+
+- Collaborate
+ <img src="assets/contribucion.png">
