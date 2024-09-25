@@ -1792,3 +1792,31 @@ Enlace para acceder al [landing page](https://upecinos-ai-aplicacionesweb.github
 	</tbody>
 </table>
 
+### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                          | Branch                        | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
+| ----------------------------------- |-------------------------------| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- |--------------------|
+| Saifu-FrontEnd | master                        | 41253d09a536fbd5c0c21a7ed6b51bb52a41634c | chore:initial commit                                                                                                          |                     | 20/09/24           |
+| Saifu-FrontEnd | develop                       | c8556cd7c81aa969802b05b2acfc7ff6b614141b | feat: add sidebar and toolbar component.                                                                                                        |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 511068749a6230a923375a15145ab900f27a2f4b | chore: create feature/profile                                                                                      |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 6d772c766dbba9c01f728ff319ef2922e4294427 | chore: create feature/login                                                                                      |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 49d60aa12278c5c33a7b4cd585fff02f97cd6a1c | chore: create feature/transaction                                                                                              |                     | 24/09/24           |
+| Saifu-FrontEnd | develop                       | 1b4b63644060337e5b792de49827480efbd7307b | chore: create feature/financial-information.                                                                               |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 7a1d756848feee02bea9a23c2b7a4592e40fb0f0 | feat: add financial-topics component and images.                                                                                                   |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-information component.                                                                                                   |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/financial-information | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-theme component.                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/profile               | 5620934fb20175697ad488e60c16e5394578f1fb | feat: add main-page.component.vue and profile.component.vue and routes.                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/profile               | 6d21d87b988a0cd1c7db25593edc018359bb76b5 | feat: add profile-edit component, and functional delete button                                                                                                  |                     | 24/09/24           |
+| Saifu-FrontEnd | feature/subscription          | 51f1f45b3ac036715e1274ffba787ced8e464d42 | feat:add education component                                                                                                  |                     | 24/09/24           |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.2.5 Execution Evidence for Sprint Review
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
