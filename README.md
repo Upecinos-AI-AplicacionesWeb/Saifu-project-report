@@ -1866,3 +1866,35 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 
 - Collaborate
  <img src="assets/contribucion.png">
+
+
+<div id='5.3.'><h2> 5.3. Validation Interviews.</h2></div>
+
+<div id='5.3.1.'><h3> 5.3.1. Diseño de entrevistas.</h3></div>
+
+**Para el segmento "Joven de 18 a 24 años en inicios de independencia":**
+1. ¿Lograste encontrar fácilmente cómo registrar tus ingresos y gastos? ¿Cuánto tiempo te tomó?
+2. ¿La aplicación te permite establecer objetivos de ahorro que se ajusten a tus ingresos? ¿Qué tan intuitivo es este proceso?
+3. ¿Encontraste opciones o herramientas que te ayuden a monitorear tus gastos y controlar tu presupuesto? ¿Te parecieron útiles?
+4. ¿Qué tan claro fue para ti el proceso de crear un presupuesto mensual o semanal?
+5. ¿La aplicación proporciona recordatorios o alertas que te ayuden a cumplir con tus metas de ahorro? ¿Te resultaron útiles?
+6. ¿Sientes que la aplicación te da el control para ajustar tus metas de ahorro si tus ingresos cambian?
+7. ¿Te pareció útil la información o consejos que ofrece la aplicación para gestionar mejor tus finanzas?
+8. ¿Hubo alguna funcionalidad que te haya resultado confusa o complicada de usar? ¿Cuál y por qué?
+9. ¿Consideras que esta aplicación te brinda suficiente flexibilidad para adaptarse a tus necesidades de ingresos y gastos?
+10. ¿Te sientes motivado a usar la aplicación de forma regular para mejorar tu independencia financiera? ¿Por qué?
+
+<br>
+**Para el segmento "Jefe de Hogar del Sector Económico D o E":**
+¿Te resultó sencillo ingresar y registrar tus gastos diarios? ¿Te pareció que el proceso fue rápido y claro?
+¿La aplicación te permite organizar y visualizar tus gastos e ingresos de forma que puedas tomar decisiones informadas para el hogar?
+¿Sientes que la funcionalidad de registro de gastos es adecuada para llevar el control de los gastos básicos de tu hogar?
+¿La aplicación te permite visualizar tus progresos de ahorro de forma fácil y comprensible?
+¿Existen herramientas dentro de la aplicación que te ayuden a prevenir o controlar tus deudas? ¿Te parecen efectivas?
+¿Consideras que la funcionalidad de alertas y recordatorios para el ahorro es útil en tu día a día?
+¿Hubo algún momento en que te sintieras perdido o confundido al usar alguna funcionalidad de la aplicación? ¿Cuál fue?
+¿La aplicación ofrece opciones que te permitan ajustar tus objetivos de ahorro a los cambios en tus ingresos familiares?
+¿Sientes que puedes confiar en la aplicación para planificar los gastos de tu hogar? ¿Por qué?
+¿Te ves utilizando esta aplicación regularmente para mejorar el ahorro y la gestión de los ingresos de tu familia? ¿Por qué?
+
+<div id='5.3.2.'><h3> 5.3.2. Registro de entrevistas</h3></div>
