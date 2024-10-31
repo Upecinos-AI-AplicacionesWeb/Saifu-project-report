@@ -1884,7 +1884,6 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 9. ¿Consideras que esta aplicación te brinda suficiente flexibilidad para adaptarse a tus necesidades de ingresos y gastos?
 10. ¿Te sientes motivado a usar la aplicación de forma regular para mejorar tu independencia financiera? ¿Por qué?
 
-<br>
 **Para el segmento "Jefe de Hogar del Sector Económico D o E":**
 ¿Te resultó sencillo ingresar y registrar tus gastos diarios? ¿Te pareció que el proceso fue rápido y claro?
 ¿La aplicación te permite organizar y visualizar tus gastos e ingresos de forma que puedas tomar decisiones informadas para el hogar?
