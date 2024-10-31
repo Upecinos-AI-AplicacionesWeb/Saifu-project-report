@@ -1885,15 +1885,15 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 10. ¿Te sientes motivado a usar la aplicación de forma regular para mejorar tu independencia financiera? ¿Por qué?
 
 **Para el segmento "Jefe de Hogar del Sector Económico D o E":**
-¿Te resultó sencillo ingresar y registrar tus gastos diarios? ¿Te pareció que el proceso fue rápido y claro?
-¿La aplicación te permite organizar y visualizar tus gastos e ingresos de forma que puedas tomar decisiones informadas para el hogar?
-¿Sientes que la funcionalidad de registro de gastos es adecuada para llevar el control de los gastos básicos de tu hogar?
-¿La aplicación te permite visualizar tus progresos de ahorro de forma fácil y comprensible?
-¿Existen herramientas dentro de la aplicación que te ayuden a prevenir o controlar tus deudas? ¿Te parecen efectivas?
-¿Consideras que la funcionalidad de alertas y recordatorios para el ahorro es útil en tu día a día?
-¿Hubo algún momento en que te sintieras perdido o confundido al usar alguna funcionalidad de la aplicación? ¿Cuál fue?
-¿La aplicación ofrece opciones que te permitan ajustar tus objetivos de ahorro a los cambios en tus ingresos familiares?
-¿Sientes que puedes confiar en la aplicación para planificar los gastos de tu hogar? ¿Por qué?
-¿Te ves utilizando esta aplicación regularmente para mejorar el ahorro y la gestión de los ingresos de tu familia? ¿Por qué?
+1. ¿Te resultó sencillo ingresar y registrar tus gastos diarios? ¿Te pareció que el proceso fue rápido y claro?
+2. ¿La aplicación te permite organizar y visualizar tus gastos e ingresos de forma que puedas tomar decisiones informadas para el hogar?
+3. ¿Sientes que la funcionalidad de registro de gastos es adecuada para llevar el control de los gastos básicos de tu hogar?
+4. ¿La aplicación te permite visualizar tus progresos de ahorro de forma fácil y comprensible?
+5. ¿Existen herramientas dentro de la aplicación que te ayuden a prevenir o controlar tus deudas? ¿Te parecen efectivas?
+6. ¿Consideras que la funcionalidad de alertas y recordatorios para el ahorro es útil en tu día a día?
+7. ¿Hubo algún momento en que te sintieras perdido o confundido al usar alguna funcionalidad de la aplicación? ¿Cuál fue?
+8. ¿La aplicación ofrece opciones que te permitan ajustar tus objetivos de ahorro a los cambios en tus ingresos familiares?
+9. ¿Sientes que puedes confiar en la aplicación para planificar los gastos de tu hogar? ¿Por qué?
+10. ¿Te ves utilizando esta aplicación regularmente para mejorar el ahorro y la gestión de los ingresos de tu familia? ¿Por qué?
 
 <div id='5.3.2.'><h3> 5.3.2. Registro de entrevistas</h3></div>
