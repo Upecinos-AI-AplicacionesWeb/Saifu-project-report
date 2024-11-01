@@ -2097,37 +2097,17 @@ Imagen de la aplicacion backend corriendo
 |Edad|22|
 |Distrito|Surco|
 |Screenshot|![](assets/validation-interview-christian.png)|
-|Timing:  |URL: |
-
-|Entevistado 2||
-|-|-|
-|Edad||
-|Distrito||
-|Screenshot|![](assets/)|
-|Timing: 0:07-15:15 |URL: |
-
-|Entevistado 3||
-|-|-|
-|Edad|2|
-|Distrito||
-|Screenshot|![](assets/)|
-|Timing: 0:07-15:15 |URL: |
+|Timing:  |URL: [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EQCJS0Q3or9Jmkbc6YW4TuEBMjLqULU2Zy37noUe6Ww6qA?e=Eu90KN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 
 **Para el segmento "Jefe de Hogar del Sector Económico D o E":**
 
-|Entevistado 1||
+|Entevistado 1|Jorge Luis Reyes Vivas|
 |-|-|
-|Edad||
-|Distrito||
-|Screenshot|![](assets/)|
-|Timing: 0:07-15:15 |URL: |
+|Edad|45|
+|Distrito|Surco|
+|Screenshot|![](assets/entrevista-validation-2.png)|
+|Timing:  |URL: [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EQCJS0Q3or9Jmkbc6YW4TuEBMjLqULU2Zy37noUe6Ww6qA?e=Eu90KN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 
-|Entevistado 2||
-|-|-|
-|Edad||
-|Distrito||
-|Screenshot|![](assets/)|
-|Timing: 0:07-15:15 |URL: |
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
