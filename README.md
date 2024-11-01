@@ -2024,6 +2024,38 @@ Evidencia de la máquina virtual creada en Google Cloud
 | Saifu-Backend | feature/plan               | 6d21d87b988a0cd1c7db25593edc018359bb76b5 | feat: add profile-edit component, and functional delete button                                                                                                  |                     | 24/10/24           |
 | Saifu-Backend | feature/subscription       | 51f1f45b3ac036715e1274ffba787ced8e464d42 | feat:add education component                                                                                                  |                     | 24/10/24           |
 
+### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+### 5.2.3.5 Execution Evidence for Sprint Review
+
+Imagen de la aplicacion backend corriendo
+
+- Swagger
+	<img src="assets/swagger.jfif">
+
+ ### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+ ### 5.2.3.7 Software Deployment Evidence for Sprint Review
+ 
+ Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
+
+- Base de datos
+  Creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella
+  <img src="assets/images/azure1.png">
+
+- Web Service
+  Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
+  Los archivos del BackEnd en la maquina virtual:
+  
+  <img src="assets/backend1.jfif">
+  
+  <img src="assets/backend2.jfif">
+  
+  Una vez terminado, esperamos que salga una check verde en la seccion de Centro de implementacion, luego ya podemos acceder al swager con el siguiente link: http://4.210.225.6:5000/swagger/index.html
+
+  Estatus de nuestro proyecto en azure:
+  
+  <img src="assets/backend3.jfif">
 
 <div id='5.3.'><h2> 5.3. Validation Interviews.</h2></div>
 
