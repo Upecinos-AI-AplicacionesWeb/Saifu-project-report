@@ -1867,6 +1867,156 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 - Collaborate
  <img src="assets/contribucion.png">
 
+### 5.2.3 Sprint 3
+
+### 5.2.3.1 Sprint Planning 3
+
+<p>Se planeó el segundo tecer a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+
+| **Sprint #**                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Date                               | 2024-10-20                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Time                               | 5:00 PM                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Location                           | Virtual                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Prepared by                        | Reyes Valenzuela, Renato German                                                                                                                                                                                                                                                                                                                                                                               |
+| Attendees (to planning meeting)    | <p>Comettant Rubiños, Jessica Elizabeth</p><p>Quiroz Zambrano, Fabrizio Quiroz</p><p>Quiñones Tintaya, Johan Jorge</p><p>Flores Manrique, Sebastian Enrique</p><p>Reyes Valenzuela, Renato German</p><p></p>                                                                                                                                                                                                  |
+| Sprint n - 3 Review Summary        | Durante el tercer sprint, el equipo logró implementar el BackEnd y desplegarlo satisfactoriamente, además se corrigió y mejoró el FrontEnd y LandingPage. Todas las tareas planificadas fueron completadas según las especificaciones requeridas.El despliegue se llevó a cabo sin problemas y el backend está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.                                                     |
+| Sprint n - 3 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint 3 Goal                      | El objetivo principal que tiene este sprint 3 es elaborar y desplegar el BackEnd web applications para el negocio.                                                                                                                                                                                                                                                                   |
+| Sprint 3 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+### 5.2.3.2 Sprint Backlog 3
+
+<p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el FrontEnd. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">TS-05</td>
+			<td rowspan="2">Visualización de Balance Económico</td>
+			<td>T01</td>
+			<td>Implementar Endpoint GET - Lista de balance económico</td>
+			<td>Crear el endpoint GET para la sección de balance económico, donde el usuario podrá obtener y visualizar la lista de su balance económico.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Implementar Endpoint POST - Lista de balance económico</td>
+			<td>Crear el endpoint POST para la sección de balance económico, donde el usuario podrá ingresar un nuevo gasto económico.</td>
+			<td>4</td>
+			<td>Reyes Valenzuela, Renato German</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">TS-04</td>
+			<td rowspan="2">Registro de Ingresos y Egresos</td>
+			<td>T03</td>
+			<td>Implementar Endpoint POST  - Registro de ingresos y egresos</td>
+			<td>Crear el endpoint POST para la sección registro de ingresos y egresos, donde el usuario podrá ingresar un nuevo ingreso y/o egreso a su registro.</td>
+			<td>4</td>
+			<td>Flores Mnarique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td>Implementar Endpoint PUT  - Registro de ingresos y egresoso</td>
+			<td>Crear el endpoint PUT para la sección registro de ingresos y egresos, donde el usuario podrá actualizar un ingreso y/o egreso ya registrado.</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian Enrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">TS-07</td>
+			<td rowspan="2">Configuración de Metas de Ahorro</td>
+			<td>T05</td>
+			<td>Implementar Endpoint POST  - Metas de ahorro</td>
+			<td>Crear el endpoint POST para la sección de metas de ahorro, donde el usuario podrá ingresar un valor para definido para su meta de ahorro a cumplir.</td>
+			<td>6</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Implementar Endpoint PUT  - Metas de ahorro</td>
+			<td>Crear el endpoint PUT para la sección de metas de ahorro, donde el usuario podrá actualizar el valor para su meta de ahorro a cumplir.</td>
+			<td>2</td>
+			<td>Quiroz Zambrano, Fabrizio Quiroz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">TS-08</td>
+			<td rowspan="2">Edición del Perfil de Usuario</td>
+			<td>T07</td>
+			<td>Implementar Endpoint PUT  - Perfil de usuario</td>
+			<td>Crear el endpoint PUT para la sección perfil de usuario, donde el usuario podrá actualizar los datos registrados y permitidos en la plataforma.</td>
+			<td>6</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Implementar Endpoint GET  - Perfil de usuario</td>
+			<td>Crear el endpoint GET para la sección perfil de usuario, donde el usuario podrá obtener sus datos que registró en la plataforma.</td>
+			<td>4</td>
+			<td>Comettant Rubiños, Jessica Elizabeth</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">TS-06</td>
+			<td rowspan="2">Generación de Reportes</td>
+			<td>T09</td>
+			<td>Implementar Endpoint GET  - Generación de Reportes</td>
+			<td>Crear el endpoint GET para la sección de generación de reportes, donde el usuario podrá obtener y visualizar su reporte de gastos de un mes específico.</td>
+			<td>4</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Implementar Endpoint DELETE  - Generación de Reportes</td>
+			<td>Crear el endpoint DELETE para la sección de reportes, donde el usuario podrá eliminar los reportes de meses pasados.</td>
+			<td>6</td>
+			<td>Quiñones Tintaya, Johan Jorge</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository     | Branch                     | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
+|----------------|----------------------------| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- |--------------------|
+| Saifu-Backend   | master                     | 41253d09a536fbd5c0c21a7ed6b51bb52a41634c | chore:initial commit                                                                                                          |                     | 20/10/24           |
+| Saifu-Backend | develop                    | c8556cd7c81aa969802b05b2acfc7ff6b614141b | feat: add sidebar and toolbar component.                                                                                                        |                     | 24/10/24           |
+| Saifu-Backend | develop                    | 511068749a6230a923375a15145ab900f27a2f4b | chore: create feature/profile                                                                                      |                     | 24/10/24           |
+| Saifu-Backend | develop                    | 6d772c766dbba9c01f728ff319ef2922e4294427 | chore: create feature/login                                                                                      |                     | 24/10/24           |
+| Saifu-Backend | develop                    | 49d60aa12278c5c33a7b4cd585fff02f97cd6a1c | chore: create feature/transaction                                                                                              |                     | 24/10/24           |
+| Saifu-Backend | develop                    | 1b4b63644060337e5b792de49827480efbd7307b | chore: create feature/financial-information.                                                                               |                     | 24/10/24           |
+| Saifu-Backend | feature/financial | 7a1d756848feee02bea9a23c2b7a4592e40fb0f0 | feat: add financial-topics component and images.                                                                                                   |                     | 24/10/24           |
+| Saifu-Backend | feature/financial | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-information component.                                                                                                   |                     | 24/10/24           |
+| Saifu-Backend | feature/financial | 09708ac107aeea40cb4c3fc7b9edd6d67ceeaf74 | feat: add financial-theme component.                                                                                                  |                     | 24/10/24           |
+| Saifu-Backend | feature/plan               | 5620934fb20175697ad488e60c16e5394578f1fb | feat: add main-page.component.vue and profile.component.vue and routes.                                                                                                  |                     | 24/10/24           |
+| Saifu-Backend | feature/plan               | 6d21d87b988a0cd1c7db25593edc018359bb76b5 | feat: add profile-edit component, and functional delete button                                                                                                  |                     | 24/10/24           |
+| Saifu-Backend | feature/subscription       | 51f1f45b3ac036715e1274ffba787ced8e464d42 | feat:add education component                                                                                                  |                     | 24/10/24           |
+
+
+
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
 ##
