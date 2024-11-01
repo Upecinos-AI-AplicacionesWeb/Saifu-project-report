@@ -2057,6 +2057,9 @@ Imagen de la aplicacion backend corriendo
   
   <img src="assets/backend3.jfif">
 
+### 5.2.3.8 Team Collaboration Insights during Sprint
+  <img src="assets/team-collaboration-1.png">
+
 <div id='5.3.'><h2> 5.3. Validation Interviews.</h2></div>
 
 <div id='5.3.1.'><h3> 5.3.1. Diseño de entrevistas.</h3></div>
@@ -2668,5 +2671,10 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 ![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
 
+## 5.4 Video About the Product
+
+Link del video en youtube: [AboutTheProduct-Youtube](https://youtu.be/Qar46jd4ces)
+
+Link del video en Microsoft Stream: [AboutTheProduct-MicrosoftStream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/Ec44PdHRX7hDlrhbtLFzYN0Bc87T65aJ2yR6xIhYhK-4qw?e=QDPkCK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
