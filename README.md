@@ -2061,7 +2061,7 @@ Evidencia de la máquina virtual creada en Google Cloud
 |-|-|
 |Edad||
 |Distrito||
-|Screenshot|![](assets/)|
+|Screenshot|![](assets/valdation-interview-christian.png)|
 |Timing:  |URL: |
 
 |Entevistado 2||
