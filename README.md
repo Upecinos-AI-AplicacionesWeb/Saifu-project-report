@@ -2059,9 +2059,9 @@ Evidencia de la máquina virtual creada en Google Cloud
 
 |Entevistado 1|Christian Andr, Matos Fernandez|
 |-|-|
-|Edad||
-|Distrito||
-|Screenshot|![](assets/valdation-interview-christian.png)|
+|Edad|22|
+|Distrito|Surco|
+|Screenshot|![](assets/validation-interview-christian.png)|
 |Timing:  |URL: |
 
 |Entevistado 2||
