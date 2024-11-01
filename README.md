@@ -2055,6 +2055,44 @@ Evidencia de la máquina virtual creada en Google Cloud
 
 <div id='5.3.2.'><h3> 5.3.2. Registro de entrevistas</h3></div>
 
+**Para el segmento de "Joven de 18 a 24 años en inicos de independencia":**
+
+|Entevistado 1|Christian Andr, Matos Fernandez|
+|-|-|
+|Edad||
+|Distrito||
+|Screenshot|![](assets/)|
+|Timing:  |URL: |
+
+|Entevistado 2||
+|-|-|
+|Edad||
+|Distrito||
+|Screenshot|![](assets/)|
+|Timing: 0:07-15:15 |URL: |
+
+|Entevistado 3||
+|-|-|
+|Edad|2|
+|Distrito||
+|Screenshot|![](assets/)|
+|Timing: 0:07-15:15 |URL: |
+
+**Para el segmento "Jefe de Hogar del Sector Económico D o E":**
+
+|Entevistado 1||
+|-|-|
+|Edad||
+|Distrito||
+|Screenshot|![](assets/)|
+|Timing: 0:07-15:15 |URL: |
+
+|Entevistado 2||
+|-|-|
+|Edad||
+|Distrito||
+|Screenshot|![](assets/)|
+|Timing: 0:07-15:15 |URL: |
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
