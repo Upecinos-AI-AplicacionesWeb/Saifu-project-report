@@ -2057,7 +2057,7 @@ Evidencia de la máquina virtual creada en Google Cloud
 
 **Para el segmento de "Joven de 18 a 24 años en inicos de independencia":**
 
-|Entevistado 1|Christian Andr, Matos Fernandez|
+|Entevistado 1|Christian Andre, Matos Fernandez|
 |-|-|
 |Edad|22|
 |Distrito|Surco|
