@@ -217,6 +217,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
+
 # Student Outcome
 
 <table>
@@ -235,10 +236,15 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
       <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de las Technical User Stories, User Stories, Product Backlog, Diagrama de Clases, Diseño de base de datos, Bibliografía
       <br><br><b>TP1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé planes de suscripcion/pasarelas de pagos/educacion financiera/desafios financieros.<br>
       <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
-      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
-      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
-      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
-      <td><b>TB1:</b> Concluye que durante la planificación de los puntos indicados y en el desarrollo de los mismos se promovió un ambiente ordenado y dirigido para la correcta participación de todos los involucrados
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero<br> 
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.<br> 
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones<br> 
+      <br><br><b>TB2:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Para este entregable colabore con uno de mis compañeros para hacer uno de los endpoints, ademas que tambien diseñe las preguntas para las entrevistas de validacion.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>En este entregable me dedique a implementar uno de los endpoints con sus respectivos metodos, y use un enfoque de Domain Drive Design.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>En este entregable desarrolle de manera efectivas los endpoints correspondiente utilizando un enfoque de Domain Driven Design para una correcta estructuracion del proyecto
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Mi enfoque en esta etapa del proyecto fue facilitar la integración de las funcionalidades del backend. Me encargué de organizar reuniones para enseñarles a mis compañeros de equipo las nuevas funcionalidades que se iban añadiendo o cambiando.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Para esta entrega he participado en la implementacion de uno de los endpoints de nuestro trabajo
+      <td>Todos los integrantes del grupo colaboraron eficazmente en un proyecto de ingeniería, compartiendo ideas, implementando endpoints y ajustando comunicaciones según la audiencia. Utilizamos un enfoque de Domain Driven Design y trabajamos activamente en mejorar la interacción y el entendimiento dentro del equipo a través de presentaciones y reuniones, facilitando así el desarrollo continuo del proyecto.
     </td>
   </tr>
   <tr>
@@ -253,10 +259,13 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
       <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Registro de transacción/Registro de Datos/Agregar Transacción/Crear Cuenta/Iniciar Sesión<br> 
       <br><b>Flores Manrique, Sebastian Enrique:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé Información de la aplicación/ Búsqueda de temas financieros/ elección de un tema financiero
       <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la pagina principal/edición perfil/mi perfil/eliminar perfil.
-      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Me encargué de realizar las respectivas correcciones y en la parte de frontEnd realizé la página de Invitar amigos/ Servicio al cliente/Recomendar aplicación/Notificaciones
+      <br><br><b>TB2:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>En esta tercera fase, continué con el desarrollo del backend y realicé entrevistas de validación, documentando detalladamente los avances y desafíos en informes técnicos.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Para este entregable, redacté varios documentos que detallan el proceso de desarrollo del backend, incluyendo desafíos y soluciones propuestas, esto a mantener informados a todos los miembros del equipo y facilitaron discusiones constructivas sobre cómo mejorar nuestro trabajo.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Continué escribiendo informes claros sobre nuestro progreso en el backend. Mis informes estaban bien estructurados y adaptados para asegurar que se pueda entender el estado del proyecto y los problemas técnicos enfrentados, facilitando la toma de decisiones informadas.<br>
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>En este sprint, redacté sobre el desarrollo y las pruebas del backend, asegurándome de documentar cada paso. Presenté la información de manera que fuera fácil de seguir para todos, contribuyendo al entendimiento y alineación del equipo respecto a los objetivos del proyecto.<br>
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Este tercer entregable involucró redactar documentos detallados sobre nuestras últimas actualizaciones y el estado del desarrollo del backend, enfocándome en clarificar cada punto.<br>
     </td>
-    <td><b>TB1:</b> Concluye que durante todo el proceso de elaboración del TB1 se manejo los avances de manera equitativa, colaborando cada parte de la forma que sea más efectiva</td>
-  </tr>
+    <td>Todos los integrantes del grupo colaboraron contribuyeron significativamente a un proyecto de ingeniería a través de comunicación eficaz, colaboración intensa y documentación detallada. Cada uno se enfocó en redactar y desarrollar componentes del backend, mejorar la comunicación interna, y asegurar la comprensión y coordinación dentro del equipo, manteniendo una clara alineación con los objetivos del proyecto.
 </table>
 
 
