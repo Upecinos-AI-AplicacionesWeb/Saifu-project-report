@@ -2894,7 +2894,7 @@ Con una base establecida sólidamente, existe un gran potencial para la escalabi
 
 ## Video About the Team
 
-Link del video en youtube: [AboutTheTeam-Youtube]([https://youtu.be/W7cz7mqrHqM](https://youtu.be/5ajXmPvI9_w))
+Link del video en youtube: [AboutTheTeam-Youtube](https://youtu.be/5ajXmPvI9_w)
 
 
 
