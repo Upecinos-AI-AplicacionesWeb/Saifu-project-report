@@ -2660,6 +2660,23 @@ El problema identificado se refiere a la incapacidad de modificar o eliminar la 
 
 ![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
 
+
+### 5.2.4 Sprint 4
+
+### 5.2.3.1 Sprint Planning 4
+### 5.2.3.2 Sprint Backlog 4
+### 5.2.3.3 Development Evidence for Sprint Review
+### 5.2.3.4 Testing Suite Evidence for Sprint Review
+### 5.2.3.2 Execution Evidence for Sprint Review
+### 5.2.3.2 Services Documentation Evidence for Sprint Review
+### 5.2.3.2 Software Deployment Evidence for Sprint Review
+### 5.2.3.2 Team Collaboration Insights during Sprint
+### 5.3 Validation Interviews
+### 5.3.1 Diseño de Entrevistas
+### 5.3.2 Registro de Entrevistas
+### 5.3.3 Evaluaciones según Heurísticas
+
+
 ## 5.4 Video About the Product
 
 Link del video en youtube: [AboutTheProduct-Youtube](https://youtu.be/Qar46jd4ces)
