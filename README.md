@@ -2881,3 +2881,39 @@ Link del video en youtube: [AboutTheProduct-Youtube](https://youtu.be/Qar46jd4ce
 Link del video en Microsoft Stream: [AboutTheProduct-MicrosoftStream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/Ec44PdHRX7hDlrhbtLFzYN0Bc87T65aJ2yR6xIhYhK-4qw?e=QDPkCK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
+# Conclusiones
+
+<p>-Validación del Modelo de Negocio:
+A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector económico peruano.</p>
+<p>-Importancia de la Colaboración Interdisciplinaria:
+Se ha demostrado la relevancia de la colaboración entre el equipo para crear una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado económico</p>
+<p>-Enfoque en la Innovación Continua:
+Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.</p>
+<p>-Potencial de Escalabilidad y Expansión:
+Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria en el futuro.</p>
+
+## Video About the Team
+
+Link del video en youtube: [AboutTheTeam-Youtube]([https://youtu.be/W7cz7mqrHqM](https://youtu.be/5ajXmPvI9_w))
+
+
+
+# Anexos
+
+Link de la landingpage:
+<br>
+[LadingPage](https://upecinos-ai-aplicacionesweb.github.io/Saifu-LandingPage/)
+<br>
+
+Link del frontend:
+<br>
+[FrontEnd](http://20.56.2.243:3000)
+<br>
+<br>
+Link del backend:
+<br>
+[BackEnd](http://34.16.123.24:5177/swagger/index.html)
+<br>
+<br>
+
+# Bibliografía
