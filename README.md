@@ -2069,6 +2069,18 @@ Imagen de la aplicacion backend corriendo
 ### 5.2.3.8 Team Collaboration Insights during Sprint
   <img src="assets/team-collaboration-1.png">
 
+ 
+### 5.2.4 Sprint 4
+
+### 5.2.3.1 Sprint Planning 4
+### 5.2.3.2 Sprint Backlog 4
+### 5.2.3.3 Development Evidence for Sprint Review
+### 5.2.3.4 Testing Suite Evidence for Sprint Review
+### 5.2.3.2 Execution Evidence for Sprint Review
+### 5.2.3.2 Services Documentation Evidence for Sprint Review
+### 5.2.3.2 Software Deployment Evidence for Sprint Review
+### 5.2.3.2 Team Collaboration Insights during Sprint
+
 <div id='5.3.'><h2> 5.3. Validation Interviews.</h2></div>
 
 <div id='5.3.1.'><h3> 5.3.1. Diseño de entrevistas.</h3></div>
@@ -2123,6 +2135,8 @@ Imagen de la aplicacion backend corriendo
 ##
 ## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
 ## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+
+
 
 Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Saifu.
 
@@ -2659,22 +2673,6 @@ La incapacidad de modificar o eliminar información de ingresos y egresos previa
 El problema identificado se refiere a la incapacidad de modificar o eliminar la información previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de la información financiera cotidiana.
 
 ![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
-
-
-### 5.2.4 Sprint 4
-
-### 5.2.3.1 Sprint Planning 4
-### 5.2.3.2 Sprint Backlog 4
-### 5.2.3.3 Development Evidence for Sprint Review
-### 5.2.3.4 Testing Suite Evidence for Sprint Review
-### 5.2.3.2 Execution Evidence for Sprint Review
-### 5.2.3.2 Services Documentation Evidence for Sprint Review
-### 5.2.3.2 Software Deployment Evidence for Sprint Review
-### 5.2.3.2 Team Collaboration Insights during Sprint
-### 5.3 Validation Interviews
-### 5.3.1 Diseño de Entrevistas
-### 5.3.2 Registro de Entrevistas
-### 5.3.3 Evaluaciones según Heurísticas
 
 
 ## 5.4 Video About the Product
