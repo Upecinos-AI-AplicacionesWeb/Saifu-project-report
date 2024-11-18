@@ -220,6 +220,15 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 # Student Outcome
 
+ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
 <table>
   <tr>
     <th>Criterio Específico</th>
@@ -244,7 +253,14 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
       <br><b>Flores Manrique, Sebastian Enrique:</b><br>En este entregable desarrolle de manera efectivas los endpoints correspondiente utilizando un enfoque de Domain Driven Design para una correcta estructuracion del proyecto
       <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Mi enfoque en esta etapa del proyecto fue facilitar la integración de las funcionalidades del backend. Me encargué de organizar reuniones para enseñarles a mis compañeros de equipo las nuevas funcionalidades que se iban añadiendo o cambiando.
       <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Para esta entrega he participado en la implementacion de uno de los endpoints de nuestro trabajo
-      <td>Todos los integrantes del grupo colaboraron eficazmente en un proyecto de ingeniería, compartiendo ideas, implementando endpoints y ajustando comunicaciones según la audiencia. Utilizamos un enfoque de Domain Driven Design y trabajamos activamente en mejorar la interacción y el entendimiento dentro del equipo a través de presentaciones y reuniones, facilitando así el desarrollo continuo del proyecto.
+	<br><br><b>TF1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Revisé uno de los capítulos finales del informe, asegurándome de que la redacción reflejara adecuadamente el trabajo realizado por el equipo.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de finalizar un módulo del frontend, coordinándome con el equipo de backend para garantizar una integración sin problemas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Realicé pruebas exhaustivas de los servicios web y documenté los resultados, sugiriendo mejoras antes de la entrega final.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Participé en la preparación de la presentación final, aportando ideas para que cada miembro tuviera un rol destacado en la exposición.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Redacté la sección del informe donde se detalla el ciclo de vida del proyecto, destacando las etapas clave y las contribuciones del equipo.
+      <td><b>TB1:<b><br>Logramos una coordinación eficiente al repartir responsabilidades y trabajar juntos en la planeación y desarrollo de los primeros entregables. Este esfuerzo colaborativo nos permitió cumplir con los objetivos de la primera versión de la landing page.<br><br>
+	  <b>TP1:<b><br>Gracias al trabajo en equipo y la colaboración activa, logramos mejorar significativamente los entregables anteriores e integrar nuevas funcionalidades al proyecto. La participación de cada integrante fue clave para completar esta entrega.<br><br>   
+	  <b>TB2:<b><br>La colaboración entre los miembros fue esencial para completar esta fase del proyecto, integrando nuevas versiones de los productos y asegurando que cumplieran con los objetivos planteados. La validación y los videos añadieron valor significativo al proyecto.<br><br> <b>TF1:<b><br>La entrega final reflejó el esfuerzo acumulado de todo el equipo, demostrando nuestra capacidad para trabajar juntos y cumplir con los objetivos propuestos. Fue una experiencia enriquecedora que consolidó nuestras habilidades técnicas y de colaboración.<br><br>    
     </td>
   </tr>
   <tr>
@@ -264,8 +280,16 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
       <br><b>Flores Manrique, Sebastian Enrique:</b><br>Continué escribiendo informes claros sobre nuestro progreso en el backend. Mis informes estaban bien estructurados y adaptados para asegurar que se pueda entender el estado del proyecto y los problemas técnicos enfrentados, facilitando la toma de decisiones informadas.<br>
       <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>En este sprint, redacté sobre el desarrollo y las pruebas del backend, asegurándome de documentar cada paso. Presenté la información de manera que fuera fácil de seguir para todos, contribuyendo al entendimiento y alineación del equipo respecto a los objetivos del proyecto.<br>
       <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Este tercer entregable involucró redactar documentos detallados sobre nuestras últimas actualizaciones y el estado del desarrollo del backend, enfocándome en clarificar cada punto.<br>
+	    <br><br><b>TF1:</b><br><b>Comettant Rubiños, Jessica Elizabeth:</b><br>Revisé uno de los capítulos finales del informe, asegurándome de que la redacción reflejara adecuadamente el trabajo realizado por el equipo.<br>
+      <br><b>Reyes Valenzuela, Renato German:</b><br>Me encargué de finalizar un módulo del frontend, coordinándome con el equipo de backend para garantizar una integración sin problemas.<br> 
+      <br><b>Flores Manrique, Sebastian Enrique:</b><br>Realicé pruebas exhaustivas de los servicios web y documenté los resultados, sugiriendo mejoras antes de la entrega final.
+      <br><br><b>Quiñones Tintaya, Johan Jorge:</b><br>Participé en la preparación de la presentación final, aportando ideas para que cada miembro tuviera un rol destacado en la exposición.
+      <br><br><b>Quiroz Zambrano, Fabrizio Quiroz:</b><br>Redacté la sección del informe donde se detalla el ciclo de vida del proyecto, destacando las etapas clave y las contribuciones del equipo.
     </td>
-    <td>Todos los integrantes del grupo colaboraron contribuyeron significativamente a un proyecto de ingeniería a través de comunicación eficaz, colaboración intensa y documentación detallada. Cada uno se enfocó en redactar y desarrollar componentes del backend, mejorar la comunicación interna, y asegurar la comprensión y coordinación dentro del equipo, manteniendo una clara alineación con los objetivos del proyecto.
+    <td><b>TB1:<b><br>Logramos una coordinación eficiente al repartir responsabilidades y trabajar juntos en la planeación y desarrollo de los primeros entregables. Este esfuerzo colaborativo nos permitió cumplir con los objetivos de la primera versión de la landing page.<br><br>
+	  <b>TP1:<b><br>Gracias al trabajo en equipo y la colaboración activa, logramos mejorar significativamente los entregables anteriores e integrar nuevas funcionalidades al proyecto. La participación de cada integrante fue clave para completar esta entrega.<br><br>   
+	  <b>TB2:<b><br>La colaboración entre los miembros fue esencial para completar esta fase del proyecto, integrando nuevas versiones de los productos y asegurando que cumplieran con los objetivos planteados. La validación y los videos añadieron valor significativo al proyecto.<br><br> <b>TF1:<b><br>La entrega final reflejó el esfuerzo acumulado de todo el equipo, demostrando nuestra capacidad para trabajar juntos y cumplir con los objetivos propuestos. Fue una experiencia enriquecedora que consolidó nuestras habilidades técnicas y de colaboración.<br><br> 
+	  </td>		  
 </table>
 
 
