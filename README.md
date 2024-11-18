@@ -2224,15 +2224,21 @@ Imagen de la aplicacion backend corriendo
 
 
 ### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
 ### 5.2.4.5 Execution Evidence for Sprint Review
 
-Imagen de la aplicacion 
 
-- Aplicacion
-	<img src="assets/aplicacion123.jpg">
+Imagen de la aplicacion backend corriendo
+
+- Swagger
+	<img src="assets/swagger.jfif">
 
  
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+Todos los endpoints hechos
+
+
 ### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
 Aqui explicar el deployment
